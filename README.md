@@ -14,7 +14,7 @@ This project analyzes renewal risk for Northwind Science, a fictional company th
 - Renewal rate falls from 76.19% (owner change 21-30 days before close) to 40% (owner change 11-20 days before close).
 - Accounts with no owner change have the highest renewal rate at 85.11%.
 - Accounts with a product utilization score under 25% have the lowest renewal rate (53.85%). Accounts at 70% or higher have the highest (91.67%).
-- 31 open renewals worth $8.2M are at risk. 74.2% show low product usage, 32.3% had a recent owner change, and 2 renewals (both Cedar Grove Regional ESA) have both flags.
+- 31 open renewals worth $8.2M are at risk. 74.2% show low product usage, 32.3% had a recent owner change, and 2 renewals have both flags.
 
 ## Architecture
 
@@ -39,11 +39,11 @@ SQL: [q1_owner_change_win_rate.sql](q1_owner_change_win_rate.sql). A `LAG()` win
 | 50+ | 118 | 156 | 75.64% |
 | No owner change | 40 | 47 | 85.11% |
 
-**Takeaway:** a handoff in the 20 days before close is the danger zone. Past 20 days, renewal rates recover to 72-76%.
+**Takeaway:** Account owner changes in the 20 days before a close date impacts renewals the most. Past 20 days, renewal rates recover to 72-76%.
 
 ## Q2: Does Low Product Utilization Impact Renewals?
 
-SQL: [q2_usage_win_rate.sql](q2_usage_win_rate.sql). Utilization is active users divided by licensed seats, averaged over the 3 months before the renewal close month. The close month itself is excluded so last-minute logins do not inflate the score.
+SQL: [q2_usage_win_rate.sql](q2_usage_win_rate.sql). Utilization is active users divided by licensed seats, averaged over the 3 months before the renewal close month. The close month itself is excluded so last-minute logins don't inflate the score.
 
 ![Q2 dashboard: renewal rate by product utilization](images/q2_dashboard.png)
 
@@ -55,15 +55,15 @@ SQL: [q2_usage_win_rate.sql](q2_usage_win_rate.sql). Utilization is active users
 | 55-70% | 33 | 38 | 86.84% |
 | 70%+ | 22 | 24 | 91.67% |
 
-**Takeaway:** the big break is at 25%. Below it, roughly half of renewals are lost. From 25% to 70% rates are relatively consistent (79-87%), and 70%+ is highest.
+**Takeaway:** For accounts with a product utilization score under 25%, roughly half of the renewals are lost. From 25% to 70% rates are relatively consistent (79-87%), and 70%+ is highest.
 
 ## Q3: Which Accounts Are At Risk of Not Renewing?
 
-SQL: [q3_at_risk_renewals.sql](q3_at_risk_renewals.sql). Applies both signals (under 25% utilization, owner change in the last 30 days) to every open renewal, then sorts accounts with both flags first and highest revenue next, so the CS team gets a priority queue instead of a list.
+SQL: [q3_at_risk_renewals.sql](q3_at_risk_renewals.sql). Applies both signals (low product utilization scores and account owner changes) to every open renewal, then sorts accounts with both flags first and low product usage next, so the Senior Director of RevOps and the CS team get a priority queue.
 
 ![Q3 dashboard: 31 at-risk renewals worth $8,250,700](images/q3_dashboard.png)
 
-- 31 at-risk renewals worth $8,250,700
+- 31 at-risk renewals worth $8.2M
 - 74.2% have low product usage
 - 32.3% had an owner change in the last 30 days
 - 2 renewals (Cedar Grove Regional ESA, $913,000 combined) have both flags and are the highest priority
