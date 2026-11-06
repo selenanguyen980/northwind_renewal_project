@@ -1,0 +1,23 @@
+user_id,user_full_name,role,team,hire_date,termination_date,is_active
+USR-001,Priya Raman,Account Executive,East,2021-07-17,,true
+USR-002,Marcus Johnson,Account Executive,East,2020-07-28,,true
+USR-003,Elena Vasquez,Account Executive,East,2022-05-14,,true
+USR-004,David Kim,Account Executive,West,2021-04-21,,true
+USR-005,Aisha Mohammed,Account Executive,East,2021-02-11,,true
+USR-006,Tyler Brooks,Customer Success Manager,West,2022-07-08,,true
+USR-007,Sofia Rossi,Account Executive,West,2023-11-30,2026-04-03,false
+USR-008,Jamal Washington,Customer Success Manager,West,2021-03-16,,true
+USR-009,Hannah Cohen,Account Executive,Central,2020-07-17,,true
+USR-010,Wei Zhang,Account Manager,Central,2024-07-10,,true
+USR-011,Carlos Mendoza,Account Manager,West,2025-06-15,2026-02-13,false
+USR-012,Megan Doyle,Account Manager,Central,2024-08-25,,true
+USR-013,Olumide Adeyemi,Customer Success Manager,East,2021-01-28,,true
+USR-014,Rachel Bennett,Account Executive,East,2021-04-11,,true
+USR-015,Samuel Okoro,Account Executive,West,2022-02-17,,true
+USR-016,Fatima Haddad,Account Manager,Central,2020-11-29,2026-08-14,false
+USR-017,Greg Kowalski,Account Manager,East,2023-08-20,,true
+USR-018,Yuki Tanaka,Account Manager,West,2022-12-29,,true
+USR-019,Daniela Ruiz,Account Executive,Central,2022-02-16,,true
+USR-020,Andre Thompson,Account Executive,East,2021-10-26,,true
+USR-021,Isabel Moreau,Account Executive,Central,2022-04-01,2026-06-19,false
+USR-022,Noah Patel,Account Executive,East,2024-11-29,,true

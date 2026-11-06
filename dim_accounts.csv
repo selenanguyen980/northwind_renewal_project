@@ -1,0 +1,1035 @@
+account_id,account_name,state,segment,account_owner_id,account_owner_role,subscription_plan,active_contract_value,upcoming_renewal_value,is_deleted,is_current_version,record_valid_from,record_valid_to
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,1763000,,false,false,2025-07-01 00:00:00,2025-10-12 12:54:20
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,,false,false,2025-10-12 12:54:21,2025-11-26 07:45:05
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,825500,false,false,2025-11-26 07:45:06,2025-12-08 16:12:00
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,1571200,false,false,2025-12-08 16:12:01,2025-12-13 06:27:06
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,1838900,false,false,2025-12-13 06:27:07,2025-12-19 09:46:27
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,2662200,false,false,2025-12-19 09:46:28,2025-12-27 04:31:38
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,3409900,false,false,2025-12-27 04:31:39,2026-01-10 05:35:40
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,623600,4007300,false,false,2026-01-10 05:35:41,2026-01-17 12:07:29
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,550300,4007300,false,false,2026-01-17 12:07:30,2026-01-18 06:27:06
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-016,Account Manager,Premium,215000,3739600,false,false,2026-01-18 06:27:07,2026-01-31 07:09:11
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,215000,3739600,false,false,2026-01-31 07:09:12,2026-02-05 17:24:37
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,215000,4382600,false,false,2026-02-05 17:24:38,2026-02-15 17:27:22
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,132700,4382600,false,false,2026-02-15 17:27:23,2026-02-26 07:45:05
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,885800,3557100,false,false,2026-02-26 07:45:06,2026-02-28 06:27:38
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,885800,4757100,false,false,2026-02-28 06:27:39,2026-03-04 05:35:40
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,633600,4159700,false,false,2026-03-04 05:35:41,2026-03-21 16:12:00
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,687800,3414000,false,false,2026-03-21 16:12:01,2026-04-03 09:46:27
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,748900,2590700,false,false,2026-04-03 09:46:28,2026-05-06 13:30:50
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,748900,2796800,false,false,2026-05-06 13:30:51,2026-05-07 17:24:37
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,438100,2153800,false,false,2026-05-07 17:24:38,2026-05-10 10:48:35
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,438100,3274100,false,false,2026-05-10 10:48:36,2026-05-14 04:31:38
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,438100,2526400,false,false,2026-05-14 04:31:39,2026-05-22 08:10:51
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,177300,2526400,false,false,2026-05-22 08:10:52,2026-06-13 10:48:35
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,620900,1406100,false,false,2026-06-13 10:48:36,2026-06-17 14:04:20
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,620900,1864400,false,false,2026-06-17 14:04:21,2026-06-21 01:29:41
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,620900,2792800,false,false,2026-06-21 01:29:42,2026-06-25 06:27:38
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,1387400,1592800,false,false,2026-06-25 06:27:39,2026-06-26 03:24:35
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,108300,1592800,false,false,2026-06-26 03:24:36,2026-07-11 06:47:03
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,108300,2766400,false,false,2026-07-11 06:47:04,2026-07-12 05:26:53
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,108300,3788100,false,false,2026-07-12 05:26:54,2026-07-22 08:26:05
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,107000,3788100,false,false,2026-07-22 08:26:06,2026-08-20 05:26:53
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,779300,2766400,false,false,2026-08-20 05:26:54,2026-08-24 01:29:41
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,1049000,1838000,false,false,2026-08-24 01:29:42,2026-08-28 13:30:50
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,143000,1631900,false,false,2026-08-28 13:30:51,2026-08-29 14:04:20
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,497200,1173600,false,false,2026-08-29 14:04:21,2026-09-02 02:02:25
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,353400,1173600,false,false,2026-09-02 02:02:26,2026-09-02 23:35:14
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,109800,1173600,false,false,2026-09-02 23:35:15,2026-09-12 06:47:03
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,1086000,,false,false,2026-09-12 06:47:04,2026-09-27 23:54:15
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,1086000,984300,false,false,2026-09-27 23:54:16,2026-10-04 01:20:22
+ACC-00001,Lakeview Community Schools,Wisconsin,Small/Rural District,USR-015,Account Executive,Premium,694200,984300,false,true,2026-10-04 01:20:23,9999-12-31 23:59:59
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-012,Account Manager,Basic,65000,,false,false,2025-07-01 00:00:00,2025-11-11 23:02:49
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-010,Account Manager,Basic,65000,,false,false,2025-11-11 23:02:50,2025-12-20 04:48:56
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-004,Account Executive,Basic,65000,,false,false,2025-12-20 04:48:57,2026-01-09 08:52:33
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-004,Account Executive,Basic,24500,,false,false,2026-01-09 08:52:34,2026-03-10 04:19:48
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-004,Account Executive,Basic,25400,,false,false,2026-03-10 04:19:49,2026-09-09 10:00:01
+ACC-00002,Pinecrest City Schools,Georgia,Mid-Size District,USR-004,Account Executive,Basic,25400,27600,false,true,2026-09-09 10:00:02,9999-12-31 23:59:59
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-010,Account Manager,Basic,212000,,false,false,2025-07-01 00:00:00,2025-10-13 00:40:36
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-020,Account Executive,Basic,212000,,false,false,2025-10-13 00:40:37,2026-01-16 01:08:05
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-022,Account Executive,Basic,212000,,false,false,2026-01-16 01:08:06,2026-05-08 19:19:44
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-022,Account Executive,Basic,96400,,false,false,2026-05-08 19:19:45,2026-05-09 23:05:13
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-022,Account Executive,Basic,96400,272700,false,false,2026-05-09 23:05:14,2026-06-02 12:13:42
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-009,Account Executive,Basic,96400,272700,false,false,2026-06-02 12:13:43,2026-06-15 23:42:22
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-009,Account Executive,Basic,96400,439800,false,false,2026-06-15 23:42:23,2026-06-16 23:47:14
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-009,Account Executive,Basic,96400,528000,false,false,2026-06-16 23:47:15,2026-06-19 02:10:27
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-004,Account Executive,Basic,96400,528000,false,false,2026-06-19 02:10:28,2026-07-18 23:05:13
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-004,Account Executive,Basic,295000,255300,false,false,2026-07-18 23:05:14,2026-08-30 23:47:14
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-004,Account Executive,Basic,102400,167100,false,false,2026-08-30 23:47:15,2026-09-23 23:42:22
+ACC-00003,Ironwood Preparatory Schools,Georgia,Charter Network,USR-004,Account Executive,Plus,245600,,false,true,2026-09-23 23:42:23,9999-12-31 23:59:59
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-010,Account Manager,Basic,132000,,false,false,2025-07-01 00:00:00,2025-09-15 21:35:01
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-015,Account Executive,Basic,132000,,false,false,2025-09-15 21:35:02,2025-11-17 00:37:46
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-012,Account Manager,Basic,132000,,false,false,2025-11-17 00:37:47,2026-05-11 16:20:49
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-003,Account Executive,Basic,132000,,false,false,2026-05-11 16:20:50,2026-06-18 11:02:04
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-003,Account Executive,Basic,132000,109300,false,false,2026-06-18 11:02:05,2026-08-05 11:02:04
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-003,Account Executive,Basic,132000,,false,false,2026-08-05 11:02:05,2026-10-02 19:05:27
+ACC-00004,Harborview Community Schools,South Carolina,Small/Rural District,USR-022,Account Executive,Basic,132000,,false,true,2026-10-02 19:05:28,9999-12-31 23:59:59
+ACC-00005,Willowbrook County Schools,California,Large District,USR-001,Account Executive,Plus,395000,,false,false,2025-07-01 00:00:00,2025-11-04 23:23:12
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,395000,,false,false,2025-11-04 23:23:13,2026-02-19 06:22:41
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,395000,384400,false,false,2026-02-19 06:22:42,2026-03-16 12:16:24
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,20500,384400,false,false,2026-03-16 12:16:25,2026-04-03 09:40:07
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,20500,426800,false,false,2026-04-03 09:40:08,2026-04-15 06:22:41
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,264700,42400,false,false,2026-04-15 06:22:42,2026-06-06 14:14:07
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,264700,365100,false,false,2026-06-06 14:14:08,2026-06-11 01:34:13
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,264700,451700,false,false,2026-06-11 01:34:14,2026-06-22 17:12:00
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,48900,409300,false,false,2026-06-22 17:12:01,2026-07-11 01:34:13
+ACC-00005,Willowbrook County Schools,California,Large District,USR-013,Customer Success Manager,Plus,48900,322700,false,false,2026-07-11 01:34:14,2026-07-17 17:27:41
+ACC-00005,Willowbrook County Schools,California,Large District,USR-018,Account Manager,Plus,48900,322700,false,false,2026-07-17 17:27:42,2026-07-21 06:10:36
+ACC-00005,Willowbrook County Schools,California,Large District,USR-018,Account Manager,Plus,48900,644300,false,false,2026-07-21 06:10:37,2026-07-27 11:47:52
+ACC-00005,Willowbrook County Schools,California,Large District,USR-018,Account Manager,Plus,48900,772300,false,false,2026-07-27 11:47:53,2026-08-26 21:22:07
+ACC-00005,Willowbrook County Schools,California,Large District,USR-018,Account Manager,Plus,48900,449600,false,false,2026-08-26 21:22:08,2026-08-28 21:04:17
+ACC-00005,Willowbrook County Schools,California,Large District,USR-018,Account Manager,Plus,106100,321600,false,false,2026-08-28 21:04:18,2026-08-30 18:01:18
+ACC-00005,Willowbrook County Schools,California,Large District,USR-005,Account Executive,Plus,106100,321600,false,true,2026-08-30 18:01:19,9999-12-31 23:59:59
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,58000,,false,false,2025-07-01 00:00:00,2026-01-24 07:57:20
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,58000,158800,false,false,2026-01-24 07:57:21,2026-03-13 16:17:31
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,58000,444000,false,false,2026-03-13 16:17:32,2026-05-23 07:57:20
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,58000,285200,false,false,2026-05-23 07:57:21,2026-06-20 12:56:55
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,381200,,false,false,2026-06-20 12:56:56,2026-08-08 10:40:59
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,381200,129000,false,false,2026-08-08 10:41:00,2026-08-25 13:02:47
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-019,Account Executive,Plus,381200,129000,false,false,2026-08-25 13:02:48,2026-10-02 10:40:59
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-019,Account Executive,Plus,123900,,false,false,2026-10-02 10:41:00,2026-10-07 00:16:11
+ACC-00006,Northgate Public Schools,Michigan,Large District,USR-017,Account Manager,Plus,123900,,false,true,2026-10-07 00:16:12,9999-12-31 23:59:59
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-019,Account Executive,Basic,157000,,false,false,2025-07-01 00:00:00,2025-11-04 18:30:13
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-019,Account Executive,Basic,157000,103600,false,false,2025-11-04 18:30:14,2026-01-30 18:30:13
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-019,Account Executive,Basic,157000,,false,false,2026-01-30 18:30:14,2026-02-21 16:21:40
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-003,Account Executive,Basic,157000,,false,false,2026-02-21 16:21:41,2026-04-07 17:06:17
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-003,Account Executive,Basic,157000,88100,false,false,2026-04-07 17:06:18,2026-04-22 08:11:33
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,157000,88100,false,false,2026-04-22 08:11:34,2026-05-31 02:01:03
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,157000,103100,false,false,2026-05-31 02:01:04,2026-06-16 17:06:17
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,65600,15000,false,false,2026-06-16 17:06:18,2026-06-20 12:02:31
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,16900,15000,false,false,2026-06-20 12:02:32,2026-08-19 02:01:03
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,18300,,false,false,2026-08-19 02:01:04,2026-09-30 17:43:22
+ACC-00007,Willowbrook Charter Network,Ohio,Charter Network,USR-012,Account Manager,Basic,27300,,false,true,2026-09-30 17:43:23,9999-12-31 23:59:59
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-008,Customer Success Manager,Plus,363000,,false,false,2025-07-01 00:00:00,2025-09-06 07:00:23
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-017,Account Manager,Plus,363000,,false,false,2025-09-06 07:00:24,2025-11-30 14:54:04
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-017,Account Manager,Plus,363000,228500,false,false,2025-11-30 14:54:05,2025-12-27 23:28:53
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-017,Account Manager,Plus,43700,228500,false,false,2025-12-27 23:28:54,2026-02-23 14:54:04
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-017,Account Manager,Plus,156700,,false,false,2026-02-23 14:54:05,2026-05-03 06:53:14
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-013,Customer Success Manager,Plus,156700,,false,false,2026-05-03 06:53:15,2026-05-24 04:52:14
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-013,Customer Success Manager,Plus,156700,289300,false,false,2026-05-24 04:52:15,2026-05-25 13:47:28
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-013,Customer Success Manager,Plus,61700,289300,false,false,2026-05-25 13:47:29,2026-06-05 08:52:20
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-006,Customer Success Manager,Plus,61700,289300,false,false,2026-06-05 08:52:21,2026-07-10 04:52:14
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-006,Customer Success Manager,Plus,61700,,false,false,2026-07-10 04:52:15,2026-08-04 09:35:05
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-006,Customer Success Manager,Plus,264300,,false,false,2026-08-04 09:35:06,2026-08-05 14:56:51
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-006,Customer Success Manager,Plus,264300,204000,false,false,2026-08-05 14:56:52,2026-09-07 10:50:58
+ACC-00008,Brookstone Community Schools,North Carolina,Small/Rural District,USR-006,Customer Success Manager,Premium,179000,204000,false,true,2026-09-07 10:50:59,9999-12-31 23:59:59
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-012,Account Manager,Plus,309000,,false,false,2025-07-01 00:00:00,2026-01-06 04:49:38
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-012,Account Manager,Plus,309000,270500,false,false,2026-01-06 04:49:39,2026-01-12 05:16:59
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-012,Account Manager,Plus,309000,329600,false,false,2026-01-12 05:17:00,2026-02-17 06:05:37
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-012,Account Manager,Plus,309000,543800,false,false,2026-02-17 06:05:38,2026-02-18 17:46:22
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-012,Account Manager,Plus,45200,543800,false,false,2026-02-18 17:46:23,2026-03-20 05:12:42
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-022,Account Executive,Plus,45200,543800,false,false,2026-03-20 05:12:43,2026-04-04 04:49:38
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-022,Account Executive,Plus,45200,273300,false,false,2026-04-04 04:49:39,2026-04-19 05:16:59
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-022,Account Executive,Plus,50400,214200,false,false,2026-04-19 05:17:00,2026-05-06 08:22:32
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,50400,214200,false,false,2026-05-06 08:22:33,2026-05-26 07:55:24
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,41400,214200,false,false,2026-05-26 07:55:25,2026-06-07 06:05:37
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,41400,,false,false,2026-06-07 06:05:38,2026-06-10 00:43:20
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,41400,203200,false,false,2026-06-10 00:43:21,2026-07-08 13:53:28
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,41400,440500,false,false,2026-07-08 13:53:29,2026-09-11 02:24:06
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Plus,41400,462900,false,false,2026-09-11 02:24:07,2026-09-14 00:43:20
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Premium,188300,259700,false,false,2026-09-14 00:43:21,2026-10-01 13:53:28
+ACC-00009,Northgate Consolidated Schools,Missouri,Small/Rural District,USR-010,Account Manager,Premium,259800,22400,false,true,2026-10-01 13:53:29,9999-12-31 23:59:59
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-017,Account Manager,Basic,377000,,false,false,2025-07-01 00:00:00,2025-10-20 11:56:27
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-014,Account Executive,Basic,377000,,false,false,2025-10-20 11:56:28,2026-02-18 11:12:09
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-018,Account Manager,Basic,377000,,false,false,2026-02-18 11:12:10,2026-05-30 19:50:28
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-018,Account Manager,Basic,377000,118700,false,false,2026-05-30 19:50:29,2026-06-23 03:43:34
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-018,Account Manager,Basic,377000,222000,false,false,2026-06-23 03:43:35,2026-08-26 23:50:04
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-018,Account Manager,Basic,120600,103300,false,false,2026-08-26 23:50:05,2026-09-15 03:43:34
+ACC-00010,Riverside County Schools,Wisconsin,Large District,USR-018,Account Manager,Basic,96300,,false,true,2026-09-15 03:43:35,9999-12-31 23:59:59
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-008,Customer Success Manager,Plus,46000,,false,false,2025-07-01 00:00:00,2025-08-28 09:26:14
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,,false,false,2025-08-28 09:26:15,2025-09-13 07:46:43
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,30200,false,false,2025-09-13 07:46:44,2025-12-12 07:46:43
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,,false,false,2025-12-12 07:46:44,2026-03-18 05:34:10
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,113100,false,false,2026-03-18 05:34:11,2026-04-22 02:56:43
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,203600,false,false,2026-04-22 02:56:44,2026-05-27 20:04:25
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Plus,46000,311000,false,false,2026-05-27 20:04:26,2026-06-08 22:21:57
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Premium,114400,311000,false,false,2026-06-08 22:21:58,2026-06-12 19:23:58
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Premium,114400,197900,false,false,2026-06-12 19:23:59,2026-07-09 18:00:05
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-003,Account Executive,Premium,114400,309100,false,false,2026-07-09 18:00:06,2026-07-29 02:34:43
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-013,Customer Success Manager,Premium,114400,309100,false,false,2026-07-29 02:34:44,2026-08-08 02:56:43
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-013,Customer Success Manager,Premium,92100,218600,false,false,2026-08-08 02:56:44,2026-08-19 09:09:32
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-013,Customer Success Manager,Premium,102400,111200,false,false,2026-08-19 09:09:33,2026-08-31 05:34:21
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-009,Account Executive,Premium,102400,111200,false,false,2026-08-31 05:34:22,2026-09-11 18:24:33
+ACC-00011,Harborview Unified School District,Michigan,Large District,USR-009,Account Executive,Premium,102400,,false,true,2026-09-11 18:24:34,9999-12-31 23:59:59
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-008,Customer Success Manager,Plus,684000,,false,false,2025-07-01 00:00:00,2025-10-15 19:02:32
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-008,Customer Success Manager,Plus,684000,127800,false,false,2025-10-15 19:02:33,2026-01-14 19:02:32
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-008,Customer Success Manager,Basic,103200,,false,false,2026-01-14 19:02:33,2026-02-17 23:00:59
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-008,Customer Success Manager,Basic,103200,156200,false,false,2026-02-17 23:01:00,2026-03-05 10:26:39
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-008,Customer Success Manager,Basic,103200,436900,false,false,2026-03-05 10:26:40,2026-04-09 06:59:59
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-014,Account Executive,Basic,103200,436900,false,false,2026-04-09 07:00:00,2026-05-23 08:22:20
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-014,Account Executive,Basic,54000,436900,false,false,2026-05-23 08:22:21,2026-05-28 15:02:22
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-021,Account Executive,Basic,54000,436900,false,false,2026-05-28 15:02:23,2026-06-04 10:26:39
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-021,Account Executive,Basic,427000,156200,false,false,2026-06-04 10:26:40,2026-06-16 16:01:07
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-021,Account Executive,Basic,427000,216900,false,false,2026-06-16 16:01:08,2026-06-21 21:59:59
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-017,Account Manager,Basic,427000,216900,false,false,2026-06-21 22:00:00,2026-06-24 19:53:34
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-017,Account Manager,Basic,105200,60700,false,false,2026-06-24 19:53:35,2026-07-13 09:49:15
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-017,Account Manager,Basic,105200,159900,false,false,2026-07-13 09:49:16,2026-08-17 14:12:52
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,105200,159900,false,false,2026-08-17 14:12:53,2026-08-19 20:07:48
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,117400,60700,false,false,2026-08-19 20:07:49,2026-09-02 20:54:21
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,39900,60700,false,false,2026-09-02 20:54:22,2026-09-06 10:38:47
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,202900,60700,false,false,2026-09-06 10:38:48,2026-09-07 22:21:53
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,67600,,false,false,2026-09-07 22:21:54,2026-09-22 05:20:31
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,67600,195200,false,false,2026-09-22 05:20:32,2026-10-19 02:44:19
+ACC-00012,Oakhaven Unified School District,Wisconsin,Large District,USR-020,Account Executive,Basic,62900,195200,false,true,2026-10-19 02:44:20,9999-12-31 23:59:59
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-009,Account Executive,Basic,233000,,false,false,2025-07-01 00:00:00,2026-02-10 01:32:25
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-004,Account Executive,Basic,233000,,false,false,2026-02-10 01:32:26,2026-02-26 06:30:14
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-008,Customer Success Manager,Basic,233000,,false,false,2026-02-26 06:30:15,2026-03-15 17:26:43
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-008,Customer Success Manager,Basic,233000,29700,false,false,2026-03-15 17:26:44,2026-04-09 04:59:59
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-006,Customer Success Manager,Basic,233000,29700,false,false,2026-04-09 05:00:00,2026-05-28 17:26:43
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-006,Customer Success Manager,Basic,26400,,false,false,2026-05-28 17:26:44,2026-10-16 12:45:09
+ACC-00013,Stonebridge Charter Network,New York,Charter Network,USR-006,Customer Success Manager,Basic,36600,,false,true,2026-10-16 12:45:10,9999-12-31 23:59:59
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-007,Account Executive,Basic,46000,,false,false,2025-07-01 00:00:00,2026-03-17 18:19:34
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-021,Account Executive,Basic,46000,,false,false,2026-03-17 18:19:35,2026-04-24 04:32:37
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-021,Account Executive,Basic,46000,15000,false,false,2026-04-24 04:32:38,2026-05-25 08:10:02
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-021,Account Executive,Basic,64700,15000,false,false,2026-05-25 08:10:03,2026-06-19 17:59:59
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-012,Account Manager,Basic,64700,15000,false,false,2026-06-19 18:00:00,2026-06-24 06:01:14
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-012,Account Manager,Basic,64700,140600,false,false,2026-06-24 06:01:15,2026-08-20 04:32:37
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-012,Account Manager,Basic,23500,125600,false,false,2026-08-20 04:32:38,2026-08-26 02:06:56
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-020,Account Executive,Basic,23500,125600,false,false,2026-08-26 02:06:57,2026-09-07 06:01:14
+ACC-00014,Westfield Area Schools,Texas,Mid-Size District,USR-020,Account Executive,Plus,185800,,false,true,2026-09-07 06:01:15,9999-12-31 23:59:59
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-008,Customer Success Manager,Basic,225000,,false,false,2025-07-01 00:00:00,2025-12-13 15:56:48
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-008,Customer Success Manager,Basic,225000,36900,false,false,2025-12-13 15:56:49,2026-01-01 09:01:57
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-001,Account Executive,Basic,225000,36900,false,false,2026-01-01 09:01:58,2026-01-27 10:34:31
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-001,Account Executive,Basic,225000,85200,false,false,2026-01-27 10:34:32,2026-02-12 15:56:48
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-001,Account Executive,Plus,45700,48300,false,false,2026-02-12 15:56:49,2026-02-15 23:23:09
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-001,Account Executive,Plus,45700,92400,false,false,2026-02-15 23:23:10,2026-04-06 13:59:59
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-003,Account Executive,Plus,45700,92400,false,false,2026-04-06 14:00:00,2026-04-06 18:40:33
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-021,Account Executive,Plus,45700,92400,false,false,2026-04-06 18:40:34,2026-04-28 23:23:09
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-021,Account Executive,Basic,34100,48300,false,false,2026-04-28 23:23:10,2026-06-12 07:11:41
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-021,Account Executive,Basic,34100,,false,false,2026-06-12 07:11:42,2026-06-21 21:59:59
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-005,Account Executive,Basic,34100,,false,false,2026-06-21 22:00:00,2026-08-26 04:24:27
+ACC-00015,Lakeview Unified School District,North Carolina,Large District,USR-005,Account Executive,Basic,62300,,false,true,2026-08-26 04:24:28,9999-12-31 23:59:59
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-021,Account Executive,Basic,48000,,false,false,2025-07-01 00:00:00,2025-08-24 12:38:36
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Basic,48000,,false,false,2025-08-24 12:38:37,2025-11-02 16:22:19
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-017,Account Manager,Basic,48000,,false,false,2025-11-02 16:22:20,2025-12-29 19:40:53
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-017,Account Manager,Basic,48000,16900,false,false,2025-12-29 19:40:54,2026-03-23 20:28:08
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Basic,48000,16900,false,false,2026-03-23 20:28:09,2026-04-06 14:59:59
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-010,Account Manager,Basic,48000,16900,false,false,2026-04-06 15:00:00,2026-04-15 19:40:53
+ACC-00016,Ironwood City Schools,Michigan,Mid-Size District,USR-010,Account Manager,Basic,48000,,false,true,2026-04-15 19:40:54,9999-12-31 23:59:59
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-016,Account Manager,Basic,98000,,false,false,2025-07-01 00:00:00,2025-10-04 18:05:22
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,98000,,false,false,2025-10-04 18:05:23,2026-01-11 03:38:41
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,98000,44900,false,false,2026-01-11 03:38:42,2026-04-01 03:38:41
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,55800,,false,false,2026-04-01 03:38:42,2026-05-28 00:01:19
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,55800,29400,false,false,2026-05-28 00:01:20,2026-06-02 06:15:22
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,52500,29400,false,false,2026-06-02 06:15:23,2026-09-16 00:01:19
+ACC-00017,Riverside Rural Schools,Michigan,Small/Rural District,USR-013,Customer Success Manager,Basic,52500,,false,true,2026-09-16 00:01:20,9999-12-31 23:59:59
+ACC-00018,Silver Lake Unified School District,Georgia,Large District,USR-019,Account Executive,Plus,25000,,false,false,2025-07-01 00:00:00,2025-12-10 20:23:46
+ACC-00018,Silver Lake Unified School District,Georgia,Large District,USR-005,Account Executive,Plus,25000,,false,false,2025-12-10 20:23:47,2026-08-16 03:21:31
+ACC-00018,Silver Lake Unified School District,Georgia,Large District,USR-005,Account Executive,Premium,31500,,false,true,2026-08-16 03:21:32,9999-12-31 23:59:59
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-010,Account Manager,Plus,813000,,false,false,2025-07-01 00:00:00,2026-01-26 06:12:20
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-010,Account Manager,Plus,813000,375000,false,false,2026-01-26 06:12:21,2026-02-12 19:30:56
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-010,Account Manager,Plus,813000,683000,false,false,2026-02-12 19:30:57,2026-02-17 17:13:56
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-010,Account Manager,Plus,813000,1052700,false,false,2026-02-17 17:13:57,2026-02-23 18:36:52
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,813000,1052700,false,false,2026-02-23 18:36:53,2026-03-24 17:13:56
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,437200,683000,false,false,2026-03-24 17:13:57,2026-04-03 19:30:56
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,333700,375000,false,false,2026-04-03 19:30:57,2026-04-22 06:12:20
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,448200,,false,false,2026-04-22 06:12:21,2026-04-30 20:37:38
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,448200,86900,false,false,2026-04-30 20:37:39,2026-05-11 23:05:19
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,448200,416000,false,false,2026-05-11 23:05:20,2026-05-16 13:11:06
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,448200,794500,false,false,2026-05-16 13:11:07,2026-07-04 11:17:31
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,448200,859700,false,false,2026-07-04 11:17:32,2026-07-21 20:37:38
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,121500,772800,false,false,2026-07-21 20:37:39,2026-07-29 23:05:19
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,376300,443700,false,false,2026-07-29 23:05:20,2026-08-22 03:42:18
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Plus,62300,378500,false,false,2026-08-22 03:42:19,2026-09-01 02:07:02
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Premium,96600,378500,false,false,2026-09-01 02:07:03,2026-09-01 16:49:53
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Premium,108500,378500,false,false,2026-09-01 16:49:54,2026-09-09 19:24:22
+ACC-00019,Stonebridge Area Schools,Wisconsin,Mid-Size District,USR-004,Account Executive,Premium,108500,,false,true,2026-09-09 19:24:23,9999-12-31 23:59:59
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-014,Account Executive,Plus,295000,,false,false,2025-07-01 00:00:00,2025-10-25 18:09:46
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-014,Account Executive,Plus,295000,154200,false,false,2025-10-25 18:09:47,2025-11-17 19:09:50
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-014,Account Executive,Plus,295000,554300,false,false,2025-11-17 19:09:51,2026-01-26 23:00:02
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-014,Account Executive,Plus,295000,652700,false,false,2026-01-26 23:00:03,2026-01-27 19:09:50
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-014,Account Executive,Plus,408700,252600,false,false,2026-01-27 19:09:51,2026-02-06 07:06:46
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,252600,false,false,2026-02-06 07:06:47,2026-02-26 23:00:02
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,154200,false,false,2026-02-26 23:00:03,2026-03-04 19:34:01
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,364900,false,false,2026-03-04 19:34:02,2026-04-01 08:59:59
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,691000,false,false,2026-04-01 09:00:00,2026-05-02 18:09:46
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,536800,false,false,2026-05-02 18:09:47,2026-05-10 12:58:46
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,794300,false,false,2026-05-10 12:58:47,2026-06-04 06:26:34
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-016,Account Manager,Plus,408700,1092900,false,false,2026-06-04 06:26:35,2026-06-06 10:45:36
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,408700,1092900,false,false,2026-06-06 10:45:37,2026-06-15 04:02:36
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,233300,766800,false,false,2026-06-15 04:02:37,2026-06-18 13:39:23
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,207900,556100,false,false,2026-06-18 13:39:24,2026-07-15 11:19:33
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,207900,686100,false,false,2026-07-15 11:19:34,2026-07-26 12:58:46
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,326200,428600,false,false,2026-07-26 12:58:47,2026-07-30 22:11:52
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,326200,428600,false,false,2026-07-30 22:11:53,2026-08-02 13:39:31
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,326200,582600,false,false,2026-08-02 13:39:32,2026-08-03 08:38:57
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,326200,957700,false,false,2026-08-03 08:38:58,2026-08-16 03:12:11
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,204000,957700,false,false,2026-08-16 03:12:12,2026-08-22 00:19:47
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,111700,827700,false,false,2026-08-22 00:19:48,2026-09-03 21:57:05
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-017,Account Manager,Plus,366400,529100,false,false,2026-09-03 21:57:06,2026-09-24 21:27:28
+ACC-00020,Brookstone Unified School District,Oklahoma,Large District,USR-012,Account Manager,Plus,366400,529100,false,true,2026-09-24 21:27:29,9999-12-31 23:59:59
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-002,Account Executive,Plus,193000,,false,false,2025-07-01 00:00:00,2025-10-30 06:40:45
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-002,Account Executive,Plus,193000,30800,false,false,2025-10-30 06:40:46,2025-10-31 01:50:51
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-004,Account Executive,Plus,193000,30800,false,false,2025-10-31 01:50:52,2025-12-06 00:27:13
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-004,Account Executive,Plus,193000,307400,false,false,2025-12-06 00:27:14,2025-12-14 08:55:25
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-004,Account Executive,Plus,193000,545600,false,false,2025-12-14 08:55:26,2026-01-23 09:26:49
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-007,Account Executive,Plus,193000,545600,false,false,2026-01-23 09:26:50,2026-01-25 21:47:40
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-009,Account Executive,Plus,193000,545600,false,false,2026-01-25 21:47:41,2026-02-05 08:30:08
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-009,Account Executive,Plus,193000,845100,false,false,2026-02-05 08:30:09,2026-02-06 00:27:13
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-009,Account Executive,Plus,193000,568500,false,false,2026-02-06 00:27:14,2026-02-21 06:40:45
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-009,Account Executive,Basic,23600,537700,false,false,2026-02-21 06:40:46,2026-03-08 13:21:39
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Basic,23600,537700,false,false,2026-03-08 13:21:40,2026-06-01 21:36:43
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,317100,299500,false,false,2026-06-01 21:36:44,2026-06-17 11:25:33
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,317100,,false,false,2026-06-17 11:25:34,2026-08-07 13:21:12
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,317100,124700,false,false,2026-08-07 13:21:13,2026-08-09 06:52:52
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,317100,189900,false,false,2026-08-09 06:52:53,2026-09-10 01:20:30
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,317100,124700,false,false,2026-09-10 01:20:31,2026-09-26 16:23:18
+ACC-00021,Cedar Grove County Schools,Indiana,Large District,USR-006,Customer Success Manager,Plus,125700,124700,false,true,2026-09-26 16:23:19,9999-12-31 23:59:59
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,663000,,false,false,2025-07-01 00:00:00,2025-10-18 02:14:14
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,663000,519800,false,false,2025-10-18 02:14:15,2025-11-19 08:09:33
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,663000,1143800,false,false,2025-11-19 08:09:34,2025-12-07 02:14:14
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,534400,624000,false,false,2025-12-07 02:14:15,2025-12-13 07:07:08
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,534400,1061300,false,false,2025-12-13 07:07:09,2026-01-25 14:49:39
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,534400,1694800,false,false,2026-01-25 14:49:40,2026-01-30 07:07:08
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,458600,1257500,false,false,2026-01-30 07:07:09,2026-02-01 02:35:34
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,458600,1766200,false,false,2026-02-01 02:35:35,2026-02-18 12:01:47
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,458600,2010800,false,false,2026-02-18 12:01:48,2026-03-06 08:09:33
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,669600,1386800,false,false,2026-03-06 08:09:34,2026-03-07 03:21:21
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,669600,1849700,false,false,2026-03-07 03:21:22,2026-03-12 18:45:32
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,669600,1925900,false,false,2026-03-12 18:45:33,2026-03-23 02:35:34
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,731500,1417200,false,false,2026-03-23 02:35:35,2026-04-13 03:17:59
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,731500,1758100,false,false,2026-04-13 03:18:00,2026-04-14 04:46:41
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,731500,2159700,false,false,2026-04-14 04:46:42,2026-04-16 05:13:11
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,731500,2212500,false,false,2026-04-16 05:13:12,2026-05-16 03:21:21
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,669700,1749600,false,false,2026-05-16 03:21:22,2026-05-25 04:46:41
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,562300,1348000,false,false,2026-05-25 04:46:42,2026-06-10 16:32:19
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,562300,1295200,false,false,2026-06-10 16:32:20,2026-06-12 18:45:32
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,58600,1219000,false,false,2026-06-12 18:45:33,2026-06-15 20:47:01
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,272100,974400,false,false,2026-06-15 20:47:02,2026-06-17 05:07:18
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,272100,1501100,false,false,2026-06-17 05:07:19,2026-06-25 13:04:27
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-006,Customer Success Manager,Premium,913900,867600,false,false,2026-06-25 13:04:28,2026-06-28 07:19:09
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,867600,false,false,2026-06-28 07:19:10,2026-07-01 10:13:31
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,1259300,false,false,2026-07-01 10:13:32,2026-07-02 21:48:37
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,1723200,false,false,2026-07-02 21:48:38,2026-07-06 07:05:25
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,2068300,false,false,2026-07-06 07:05:26,2026-07-06 17:36:06
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,2579900,false,false,2026-07-06 17:36:07,2026-07-11 16:26:07
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,913900,3161000,false,false,2026-07-11 16:26:08,2026-07-26 23:10:17
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,267100,3161000,false,false,2026-07-26 23:10:18,2026-08-17 12:47:41
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,415100,2697100,false,false,2026-08-17 12:47:42,2026-08-21 16:06:26
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,346300,2185500,false,false,2026-08-21 16:06:27,2026-08-24 07:40:57
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,346300,2270200,false,false,2026-08-24 07:40:58,2026-08-28 00:12:30
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,243000,2270200,false,false,2026-08-28 00:12:31,2026-09-02 11:01:45
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,453600,1743500,false,false,2026-09-02 11:01:46,2026-09-09 01:42:53
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,317400,1402600,false,false,2026-09-09 01:42:54,2026-10-13 10:13:31
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,317400,1010900,false,false,2026-10-13 10:13:32,2026-10-17 16:26:07
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Premium,912700,429800,false,false,2026-10-17 16:26:08,2026-10-20 07:05:25
+ACC-00022,Meridian Unified School District,Georgia,Large District,USR-018,Account Manager,Plus,293100,84700,false,true,2026-10-20 07:05:26,9999-12-31 23:59:59
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-016,Account Manager,Plus,599000,,false,false,2025-07-01 00:00:00,2025-09-09 08:27:02
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-010,Account Manager,Plus,599000,,false,false,2025-09-09 08:27:03,2025-12-09 09:50:45
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-010,Account Manager,Plus,599000,120100,false,false,2025-12-09 09:50:46,2026-02-05 02:40:59
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-010,Account Manager,Plus,193000,120100,false,false,2026-02-05 02:41:00,2026-02-06 09:31:40
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-010,Account Manager,Plus,193000,255900,false,false,2026-02-06 09:31:41,2026-02-10 19:01:46
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-011,Account Manager,Plus,193000,255900,false,false,2026-02-10 19:01:47,2026-02-16 16:59:59
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,193000,255900,false,false,2026-02-16 17:00:00,2026-03-13 12:18:33
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,230000,255900,false,false,2026-03-13 12:18:34,2026-03-14 09:50:45
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,230000,135800,false,false,2026-03-14 09:50:46,2026-05-21 09:31:40
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,230000,,false,false,2026-05-21 09:31:41,2026-05-31 12:33:09
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,38100,,false,false,2026-05-31 12:33:10,2026-06-04 20:17:46
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,38100,44500,false,false,2026-06-04 20:17:47,2026-08-15 21:34:10
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,38100,145300,false,false,2026-08-15 21:34:11,2026-08-30 17:11:01
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,218600,145300,false,false,2026-08-30 17:11:02,2026-09-15 20:17:46
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,218600,100800,false,false,2026-09-15 20:17:47,2026-09-16 21:34:10
+ACC-00023,Ashford Education Service District,Oklahoma,Education Service Agency,USR-008,Customer Success Manager,Plus,89600,,false,true,2026-09-16 21:34:11,9999-12-31 23:59:59
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-009,Account Executive,Basic,249000,,false,false,2025-07-01 00:00:00,2025-11-12 03:35:06
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-008,Customer Success Manager,Basic,249000,,false,false,2025-11-12 03:35:07,2026-01-15 15:37:01
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-022,Account Executive,Basic,249000,,false,false,2026-01-15 15:37:02,2026-07-11 05:09:52
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-005,Account Executive,Basic,249000,,false,false,2026-07-11 05:09:53,2026-09-01 23:30:44
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-005,Account Executive,Basic,130100,,false,false,2026-09-01 23:30:45,2026-10-11 23:22:41
+ACC-00024,Ashford Area Schools,Missouri,Mid-Size District,USR-012,Account Manager,Basic,130100,,false,true,2026-10-11 23:22:42,9999-12-31 23:59:59
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-003,Account Executive,Plus,356000,,false,false,2025-07-01 00:00:00,2025-10-02 11:44:38
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-003,Account Executive,Plus,356000,192300,false,false,2025-10-02 11:44:39,2025-10-19 22:19:03
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-003,Account Executive,Plus,356000,329800,false,false,2025-10-19 22:19:04,2025-12-05 11:44:38
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-003,Account Executive,Plus,127800,137500,false,false,2025-12-05 11:44:39,2025-12-21 21:01:28
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-011,Account Manager,Plus,127800,137500,false,false,2025-12-21 21:01:29,2026-01-30 06:54:20
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-011,Account Manager,Plus,127800,326600,false,false,2026-01-30 06:54:21,2026-01-30 22:19:03
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-011,Account Manager,Plus,87900,189100,false,false,2026-01-30 22:19:04,2026-02-15 19:59:59
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,189100,false,false,2026-02-15 20:00:00,2026-03-06 22:30:20
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,357600,false,false,2026-03-06 22:30:21,2026-03-27 17:47:56
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,452000,false,false,2026-03-27 17:47:57,2026-05-10 16:24:22
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,471800,false,false,2026-05-10 16:24:23,2026-05-23 06:54:20
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,282700,false,false,2026-05-23 06:54:21,2026-05-28 09:37:00
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Plus,87900,438500,false,false,2026-05-28 09:37:01,2026-07-03 22:30:20
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Basic,111900,270000,false,false,2026-07-03 22:30:21,2026-07-25 17:47:56
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Basic,45700,175600,false,false,2026-07-25 17:47:57,2026-08-11 09:37:00
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Basic,164200,19800,false,false,2026-08-11 09:37:01,2026-09-03 16:24:22
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Basic,164200,,false,false,2026-09-03 16:24:23,2026-09-08 13:45:57
+ACC-00025,Clearwater Rural Schools,Pennsylvania,Small/Rural District,USR-004,Account Executive,Basic,164200,197500,false,true,2026-09-08 13:45:58,9999-12-31 23:59:59
+ACC-00026,Clearwater Unified School District,California,Large District,USR-015,Account Executive,Plus,186000,,false,false,2025-07-01 00:00:00,2026-02-06 01:36:45
+ACC-00026,Clearwater Unified School District,California,Large District,USR-015,Account Executive,Plus,186000,128800,false,false,2026-02-06 01:36:46,2026-03-13 06:08:31
+ACC-00026,Clearwater Unified School District,California,Large District,USR-015,Account Executive,Plus,186000,217800,false,false,2026-03-13 06:08:32,2026-03-14 11:02:11
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Plus,186000,217800,false,false,2026-03-14 11:02:12,2026-03-22 10:54:40
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Plus,186000,333700,false,false,2026-03-22 10:54:41,2026-05-24 11:59:46
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Plus,38100,333700,false,false,2026-05-24 11:59:47,2026-06-05 06:08:31
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Plus,95800,244700,false,false,2026-06-05 06:08:32,2026-06-11 08:31:37
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Premium,155600,115900,false,false,2026-06-11 08:31:38,2026-06-16 11:49:10
+ACC-00026,Clearwater Unified School District,California,Large District,USR-019,Account Executive,Premium,123800,115900,false,false,2026-06-16 11:49:11,2026-06-23 15:18:08
+ACC-00026,Clearwater Unified School District,California,Large District,USR-022,Account Executive,Premium,123800,115900,false,false,2026-06-23 15:18:09,2026-06-25 22:14:23
+ACC-00026,Clearwater Unified School District,California,Large District,USR-022,Account Executive,Premium,123800,,false,true,2026-06-25 22:14:24,9999-12-31 23:59:59
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-003,Account Executive,Basic,322000,,false,false,2025-07-01 00:00:00,2025-09-14 23:03:30
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-001,Account Executive,Basic,322000,,false,false,2025-09-14 23:03:31,2025-10-30 08:46:49
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-001,Account Executive,Basic,322000,141700,false,false,2025-10-30 08:46:50,2025-12-18 08:46:49
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-001,Account Executive,Basic,122200,,false,false,2025-12-18 08:46:50,2026-02-25 11:11:44
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-004,Account Executive,Basic,122200,,false,false,2026-02-25 11:11:45,2026-04-22 08:30:34
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-010,Account Manager,Basic,122200,,false,false,2026-04-22 08:30:35,2026-05-07 20:32:30
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-010,Account Manager,Basic,122200,149500,false,false,2026-05-07 20:32:31,2026-06-01 17:46:33
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-010,Account Manager,Basic,122200,250700,false,false,2026-06-01 17:46:34,2026-07-16 13:35:51
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-001,Account Executive,Basic,122200,250700,false,false,2026-07-16 13:35:52,2026-08-02 09:34:43
+ACC-00027,Summit Ridge Education Service District,Virginia,Education Service Agency,USR-001,Account Executive,Plus,32700,250700,false,true,2026-08-02 09:34:44,9999-12-31 23:59:59
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-022,Account Executive,Basic,109000,,false,false,2025-07-01 00:00:00,2025-09-15 05:58:20
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-016,Account Manager,Basic,109000,,false,false,2025-09-15 05:58:21,2025-10-18 01:46:51
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-016,Account Manager,Basic,109000,42200,false,false,2025-10-18 01:46:52,2025-12-04 08:27:08
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-016,Account Manager,Basic,109000,68600,false,false,2025-12-04 08:27:09,2025-12-29 01:47:29
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-018,Account Manager,Basic,109000,68600,false,false,2025-12-29 01:47:30,2026-02-06 08:27:08
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-018,Account Manager,Basic,31700,42200,false,false,2026-02-06 08:27:09,2026-05-07 19:42:16
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-018,Account Manager,Basic,31700,85200,false,false,2026-05-07 19:42:17,2026-05-13 01:46:51
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-018,Account Manager,Basic,51400,43000,false,false,2026-05-13 01:46:52,2026-07-12 19:42:16
+ACC-00028,Pinecrest Community Schools,Missouri,Small/Rural District,USR-018,Account Manager,Basic,41600,,false,true,2026-07-12 19:42:17,9999-12-31 23:59:59
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-009,Account Executive,Basic,89000,,false,false,2025-07-01 00:00:00,2026-04-08 02:59:59
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-014,Account Executive,Basic,89000,,false,false,2026-04-08 03:00:00,2026-06-10 02:41:53
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-014,Account Executive,Basic,89000,39000,false,false,2026-06-10 02:41:54,2026-07-19 13:29:05
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-003,Account Executive,Basic,89000,39000,false,false,2026-07-19 13:29:06,2026-08-31 22:25:58
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-020,Account Executive,Basic,89000,39000,false,false,2026-08-31 22:25:59,2026-10-01 02:41:53
+ACC-00029,Hartwell Regional ESA,New York,Education Service Agency,USR-020,Account Executive,Basic,89000,,false,true,2026-10-01 02:41:54,9999-12-31 23:59:59
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-022,Account Executive,Basic,313000,,false,false,2025-07-01 00:00:00,2025-09-30 10:24:37
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-022,Account Executive,Basic,313000,279000,false,false,2025-09-30 10:24:38,2025-12-17 21:59:32
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-011,Account Manager,Basic,313000,279000,false,false,2025-12-17 21:59:33,2025-12-23 18:44:53
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-011,Account Manager,Basic,313000,564600,false,false,2025-12-23 18:44:54,2026-01-13 10:24:37
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-011,Account Manager,Basic,231000,285600,false,false,2026-01-13 10:24:38,2026-02-13 06:57:53
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-011,Account Manager,Basic,104700,285600,false,false,2026-02-13 06:57:54,2026-02-16 18:59:59
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,104700,285600,false,false,2026-02-16 19:00:00,2026-03-09 04:53:51
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,104700,369100,false,false,2026-03-09 04:53:52,2026-03-22 18:44:53
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,282400,83500,false,false,2026-03-22 18:44:54,2026-03-24 07:10:38
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,282400,127800,false,false,2026-03-24 07:10:39,2026-05-29 03:28:42
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,282400,233400,false,false,2026-05-29 03:28:43,2026-06-06 03:06:38
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,163400,233400,false,false,2026-06-06 03:06:39,2026-06-10 10:45:09
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,118200,149900,false,false,2026-06-10 10:45:10,2026-06-10 21:06:20
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,45000,149900,false,false,2026-06-10 21:06:21,2026-06-18 19:35:37
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,45000,425100,false,false,2026-06-18 19:35:38,2026-06-28 06:47:02
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,45000,640900,false,false,2026-06-28 06:47:03,2026-06-30 14:42:15
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,36700,596600,false,false,2026-06-30 14:42:16,2026-07-02 23:41:36
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,36700,638900,false,false,2026-07-02 23:41:37,2026-07-07 02:42:59
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,86400,638900,false,false,2026-07-07 02:43:00,2026-07-14 22:19:19
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,86400,739000,false,false,2026-07-14 22:19:20,2026-08-19 15:34:33
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,77100,739000,false,false,2026-08-19 15:34:34,2026-08-23 13:52:22
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,212000,523200,false,false,2026-08-23 13:52:23,2026-08-27 18:26:07
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Plus,138500,417600,false,false,2026-08-27 18:26:08,2026-10-01 19:35:37
+ACC-00030,Redwood County Schools,Pennsylvania,Large District,USR-014,Account Executive,Basic,204300,142400,false,true,2026-10-01 19:35:38,9999-12-31 23:59:59
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-018,Account Manager,Basic,172000,,false,false,2025-07-01 00:00:00,2025-12-09 13:10:18
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-018,Account Manager,Basic,172000,83100,false,false,2025-12-09 13:10:19,2026-02-09 13:10:18
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-018,Account Manager,Basic,139600,,false,false,2026-02-09 13:10:19,2026-04-08 01:59:59
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-004,Account Executive,Basic,139600,,false,false,2026-04-08 02:00:00,2026-08-03 06:34:09
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-003,Account Executive,Basic,139600,,false,false,2026-08-03 06:34:10,2026-09-01 20:06:24
+ACC-00031,Cedar Grove Education Service District,Colorado,Education Service Agency,USR-003,Account Executive,Basic,139600,227600,false,true,2026-09-01 20:06:25,9999-12-31 23:59:59
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-013,Customer Success Manager,Basic,106000,,false,false,2025-07-01 00:00:00,2025-08-15 21:27:25
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Basic,106000,,false,false,2025-08-15 21:27:26,2025-10-22 18:59:05
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Basic,106000,205100,false,false,2025-10-22 18:59:06,2025-11-13 08:54:07
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Basic,106000,266500,false,false,2025-11-13 08:54:08,2025-11-25 03:30:42
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Basic,106000,404700,false,false,2025-11-25 03:30:43,2025-12-10 11:18:00
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Basic,106000,439100,false,false,2025-12-10 11:18:01,2026-01-02 07:30:47
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,40900,439100,false,false,2026-01-02 07:30:48,2026-01-05 03:30:42
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Premium,183000,300900,false,false,2026-01-05 03:30:43,2026-01-07 08:54:07
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Premium,69400,239500,false,false,2026-01-07 08:54:08,2026-01-15 18:59:05
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Premium,199300,34400,false,false,2026-01-15 18:59:06,2026-02-12 11:18:00
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,28900,,false,false,2026-02-12 11:18:01,2026-03-18 02:44:32
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,28900,160100,false,false,2026-03-18 02:44:33,2026-04-03 18:29:34
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,114100,160100,false,false,2026-04-03 18:29:35,2026-04-22 10:07:22
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,185000,160100,false,false,2026-04-22 10:07:23,2026-04-25 15:16:44
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,26800,160100,false,false,2026-04-25 15:16:45,2026-05-05 02:44:32
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,113800,,false,false,2026-05-05 02:44:33,2026-06-27 01:10:06
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-002,Account Executive,Plus,113800,234600,false,false,2026-06-27 01:10:07,2026-07-01 23:29:34
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-009,Account Executive,Plus,113800,234600,false,false,2026-07-01 23:29:35,2026-07-12 13:35:14
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-009,Account Executive,Plus,113800,402700,false,false,2026-07-12 13:35:15,2026-08-08 19:51:46
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-020,Account Executive,Plus,113800,402700,false,false,2026-08-08 19:51:47,2026-08-27 19:34:22
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-020,Account Executive,Plus,113800,645200,false,false,2026-08-27 19:34:23,2026-09-05 09:45:53
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-020,Account Executive,Premium,43600,645200,false,false,2026-09-05 09:45:54,2026-10-06 01:10:06
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-020,Account Executive,Premium,232000,410600,false,false,2026-10-06 01:10:07,2026-10-10 10:40:38
+ACC-00032,Maple Crest Education Co-op,Tennessee,Education Service Agency,USR-014,Account Executive,Premium,232000,410600,false,true,2026-10-10 10:40:39,9999-12-31 23:59:59
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-016,Account Manager,Premium,172000,,false,false,2025-07-01 00:00:00,2025-09-24 02:06:46
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-019,Account Executive,Premium,172000,,false,false,2025-09-24 02:06:47,2025-12-12 01:49:31
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-019,Account Executive,Premium,172000,140700,false,false,2025-12-12 01:49:32,2025-12-12 14:29:10
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-019,Account Executive,Premium,172000,242300,false,false,2025-12-12 14:29:11,2025-12-30 11:21:23
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-019,Account Executive,Premium,172000,643700,false,false,2025-12-30 11:21:24,2026-01-20 02:36:01
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-005,Account Executive,Premium,172000,643700,false,false,2026-01-20 02:36:02,2026-02-03 08:08:16
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-005,Account Executive,Premium,172000,957400,false,false,2026-02-03 08:08:17,2026-02-26 01:49:31
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-005,Account Executive,Premium,172000,816700,false,false,2026-02-26 01:49:32,2026-03-10 10:17:19
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,172000,816700,false,false,2026-03-10 10:17:20,2026-03-10 11:07:28
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,209600,816700,false,false,2026-03-10 11:07:29,2026-04-14 11:21:23
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,452600,415300,false,false,2026-04-14 11:21:24,2026-05-08 23:18:12
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,452600,819600,false,false,2026-05-08 23:18:13,2026-06-02 00:18:42
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,183900,819600,false,false,2026-06-02 00:18:43,2026-06-04 12:51:07
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,164100,819600,false,false,2026-06-04 12:51:08,2026-06-08 14:29:10
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,164100,718000,false,false,2026-06-08 14:29:11,2026-06-08 15:49:46
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,425500,404300,false,false,2026-06-08 15:49:47,2026-06-25 02:03:41
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,460100,,false,false,2026-06-25 02:03:42,2026-06-25 17:38:13
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,61600,,false,false,2026-06-25 17:38:14,2026-07-31 23:19:44
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,61600,165900,false,false,2026-07-31 23:19:45,2026-08-30 12:47:14
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,170200,165900,false,false,2026-08-30 12:47:15,2026-09-06 03:47:51
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,208900,,false,false,2026-09-06 03:47:52,2026-09-29 22:11:57
+ACC-00033,Summit Ridge County Schools,Ohio,Large District,USR-012,Account Manager,Premium,208900,197200,false,true,2026-09-29 22:11:58,9999-12-31 23:59:59
+ACC-00034,Hartwell Consolidated Schools,Ohio,Small/Rural District,USR-016,Account Manager,Basic,176000,,false,false,2025-07-01 00:00:00,2025-09-06 10:09:54
+ACC-00034,Hartwell Consolidated Schools,Ohio,Small/Rural District,USR-022,Account Executive,Basic,176000,,false,false,2025-09-06 10:09:55,2026-08-29 15:48:53
+ACC-00034,Hartwell Consolidated Schools,Ohio,Small/Rural District,USR-022,Account Executive,Basic,176000,84500,false,true,2026-08-29 15:48:54,9999-12-31 23:59:59
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,389000,,false,false,2025-07-01 00:00:00,2025-11-18 17:51:06
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,389000,449400,false,false,2025-11-18 17:51:07,2025-11-29 17:10:38
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,389000,598800,false,false,2025-11-29 17:10:39,2026-01-25 17:10:38
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,188500,449400,false,false,2026-01-25 17:10:39,2026-02-02 03:15:58
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,188500,753100,false,false,2026-02-02 03:15:59,2026-02-16 17:51:06
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,605700,303700,false,false,2026-02-16 17:51:07,2026-03-08 09:30:46
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-008,Customer Success Manager,Premium,356700,303700,false,false,2026-03-08 09:30:47,2026-04-06 22:59:59
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-018,Account Manager,Premium,356700,303700,false,false,2026-04-06 23:00:00,2026-04-09 03:15:58
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-018,Account Manager,Plus,155400,,false,false,2026-04-09 03:15:59,2026-04-13 08:48:07
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Plus,155400,,false,false,2026-04-13 08:48:08,2026-04-14 01:21:38
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Plus,155400,208400,false,false,2026-04-14 01:21:39,2026-04-21 21:00:43
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Plus,186500,208400,false,false,2026-04-21 21:00:44,2026-05-07 07:35:22
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Plus,186500,729800,false,false,2026-05-07 07:35:23,2026-06-19 19:15:06
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Plus,186500,802900,false,false,2026-06-19 19:15:07,2026-06-22 01:21:38
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,312300,594500,false,false,2026-06-22 01:21:39,2026-07-16 04:58:16
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,312300,1146800,false,false,2026-07-16 04:58:17,2026-07-29 10:24:52
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,312300,1269200,false,false,2026-07-29 10:24:53,2026-08-25 19:15:06
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,312300,1196100,false,false,2026-08-25 19:15:07,2026-08-31 07:35:22
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,460900,674700,false,false,2026-08-31 07:35:23,2026-09-07 17:27:19
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,460900,1035400,false,false,2026-09-07 17:27:20,2026-10-15 10:24:52
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-001,Account Executive,Premium,460900,913000,false,false,2026-10-15 10:24:53,2026-10-16 20:22:59
+ACC-00035,Cedar Grove Regional ESA,North Carolina,Education Service Agency,USR-018,Account Manager,Premium,460900,913000,false,true,2026-10-16 20:23:00,9999-12-31 23:59:59
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-004,Account Executive,Basic,34000,,false,false,2025-07-01 00:00:00,2026-01-07 22:32:02
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-004,Account Executive,Basic,95700,,false,false,2026-01-07 22:32:03,2026-02-04 07:41:13
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-004,Account Executive,Basic,35200,,false,false,2026-02-04 07:41:14,2026-03-12 02:44:13
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-004,Account Executive,Basic,35200,126500,false,false,2026-03-12 02:44:14,2026-03-29 16:41:36
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-019,Account Executive,Basic,35200,126500,false,false,2026-03-29 16:41:37,2026-07-05 02:44:13
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-019,Account Executive,Basic,196900,,false,false,2026-07-05 02:44:14,2026-08-11 22:40:04
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-019,Account Executive,Basic,196900,199100,false,false,2026-08-11 22:40:05,2026-09-06 02:23:32
+ACC-00036,Copperfield City Schools,South Carolina,Mid-Size District,USR-010,Account Manager,Basic,196900,199100,false,true,2026-09-06 02:23:33,9999-12-31 23:59:59
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-016,Account Manager,Plus,651000,,false,false,2025-07-01 00:00:00,2025-12-27 11:40:37
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-016,Account Manager,Plus,651000,505800,false,false,2025-12-27 11:40:38,2026-02-20 07:28:23
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Plus,651000,505800,false,false,2026-02-20 07:28:24,2026-03-30 13:46:36
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Plus,134400,505800,false,false,2026-03-30 13:46:37,2026-04-04 20:27:37
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Plus,134400,577800,false,false,2026-04-04 20:27:38,2026-04-24 11:40:37
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Plus,356000,72000,false,false,2026-04-24 11:40:38,2026-05-10 20:27:37
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,,false,false,2026-05-10 20:27:38,2026-05-31 16:13:34
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,72700,false,false,2026-05-31 16:13:35,2026-05-31 17:51:15
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,622700,false,false,2026-05-31 17:51:16,2026-06-24 14:02:23
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,793300,false,false,2026-06-24 14:02:24,2026-06-25 07:09:38
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,892700,false,false,2026-06-25 07:09:39,2026-07-17 06:02:16
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,1205400,false,false,2026-07-17 06:02:17,2026-07-17 06:26:44
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-005,Account Executive,Premium,99200,1328500,false,false,2026-07-17 06:26:45,2026-08-04 19:07:00
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-016,Account Manager,Premium,99200,1328500,false,false,2026-08-04 19:07:01,2026-08-05 17:51:15
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-016,Account Manager,Premium,621000,778500,false,false,2026-08-05 17:51:16,2026-08-15 16:59:59
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,621000,778500,false,false,2026-08-15 17:00:00,2026-08-20 17:05:32
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,288500,778500,false,false,2026-08-20 17:05:33,2026-09-01 16:13:34
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,54500,705800,false,false,2026-09-01 16:13:35,2026-09-11 18:52:27
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,189800,705800,false,false,2026-09-11 18:52:28,2026-09-23 15:26:07
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,189800,837000,false,false,2026-09-23 15:26:08,2026-10-10 07:01:30
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,189800,1194800,false,false,2026-10-10 07:01:31,2026-10-11 07:09:38
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-010,Account Manager,Premium,122800,1095400,false,false,2026-10-11 07:09:39,2026-10-17 04:19:32
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-008,Customer Success Manager,Premium,122800,1095400,false,false,2026-10-17 04:19:33,2026-10-18 14:02:23
+ACC-00037,Maple Crest Academies,California,Charter Network,USR-008,Customer Success Manager,Premium,122800,924800,false,true,2026-10-18 14:02:24,9999-12-31 23:59:59
+ACC-00038,Granite Peak Rural Schools,Pennsylvania,Small/Rural District,USR-014,Account Executive,Plus,133000,,false,false,2025-07-01 00:00:00,2026-03-10 12:27:32
+ACC-00038,Granite Peak Rural Schools,Pennsylvania,Small/Rural District,USR-001,Account Executive,Plus,133000,,false,false,2026-03-10 12:27:33,2026-04-03 11:17:21
+ACC-00038,Granite Peak Rural Schools,Pennsylvania,Small/Rural District,USR-001,Account Executive,Plus,133000,61600,false,false,2026-04-03 11:17:22,2026-05-28 11:17:21
+ACC-00038,Granite Peak Rural Schools,Pennsylvania,Small/Rural District,USR-001,Account Executive,Plus,79600,,false,false,2026-05-28 11:17:22,2026-09-13 08:54:57
+ACC-00038,Granite Peak Rural Schools,Pennsylvania,Small/Rural District,USR-013,Customer Success Manager,Plus,79600,,false,true,2026-09-13 08:54:58,9999-12-31 23:59:59
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-019,Account Executive,Plus,192000,,false,false,2025-07-01 00:00:00,2025-12-08 10:01:08
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Plus,192000,,false,false,2025-12-08 10:01:09,2026-05-03 05:10:33
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Plus,192000,39000,false,false,2026-05-03 05:10:34,2026-05-03 22:10:03
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Plus,192000,113200,false,false,2026-05-03 22:10:04,2026-06-11 22:10:03
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Basic,60600,39000,false,false,2026-06-11 22:10:04,2026-07-11 05:10:33
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-016,Account Manager,Basic,60600,,false,false,2026-07-11 05:10:34,2026-07-27 20:14:47
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-014,Account Executive,Basic,60600,,false,false,2026-07-27 20:14:48,2026-08-30 07:33:26
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-013,Customer Success Manager,Basic,60600,,false,false,2026-08-30 07:33:27,2026-10-07 07:52:09
+ACC-00039,Cedar Grove City Schools,Michigan,Mid-Size District,USR-017,Account Manager,Basic,60600,,false,true,2026-10-07 07:52:10,9999-12-31 23:59:59
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-011,Account Manager,Plus,387000,,false,false,2025-07-01 00:00:00,2026-02-16 11:39:27
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-008,Customer Success Manager,Plus,387000,,false,false,2026-02-16 11:39:28,2026-02-16 21:59:59
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-022,Account Executive,Plus,387000,,false,false,2026-02-16 22:00:00,2026-03-24 05:16:59
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-022,Account Executive,Plus,387000,243400,false,false,2026-03-24 05:17:00,2026-04-08 20:59:59
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-016,Account Manager,Plus,387000,243400,false,false,2026-04-08 21:00:00,2026-04-28 09:55:51
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-016,Account Manager,Plus,43200,243400,false,false,2026-04-28 09:55:52,2026-05-18 05:16:59
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-016,Account Manager,Plus,176700,,false,false,2026-05-18 05:17:00,2026-05-22 21:05:23
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-016,Account Manager,Plus,176700,140800,false,false,2026-05-22 21:05:24,2026-06-08 11:05:37
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-017,Account Manager,Plus,176700,140800,false,false,2026-06-08 11:05:38,2026-07-12 21:27:04
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-017,Account Manager,Plus,31800,140800,false,false,2026-07-12 21:27:05,2026-08-23 21:05:23
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-017,Account Manager,Plus,31800,,false,false,2026-08-23 21:05:24,2026-08-28 15:49:29
+ACC-00040,Fairmont Charter Network,North Carolina,Charter Network,USR-017,Account Manager,Premium,92700,,false,true,2026-08-28 15:49:30,9999-12-31 23:59:59
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-005,Account Executive,Basic,641000,,false,false,2025-07-01 00:00:00,2025-09-12 18:05:43
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-020,Account Executive,Basic,641000,,false,false,2025-09-12 18:05:44,2025-11-21 01:24:02
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-011,Account Manager,Basic,641000,,false,false,2025-11-21 01:24:03,2025-12-20 10:22:58
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-011,Account Manager,Basic,641000,96900,false,false,2025-12-20 10:22:59,2026-01-27 11:28:51
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-011,Account Manager,Basic,641000,169700,false,false,2026-01-27 11:28:52,2026-02-16 16:59:59
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,641000,169700,false,false,2026-02-16 17:00:00,2026-03-17 10:22:58
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,88000,72800,false,false,2026-03-17 10:22:59,2026-04-30 16:39:50
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,88000,390000,false,false,2026-04-30 16:39:51,2026-06-16 02:01:28
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,49000,390000,false,false,2026-06-16 02:01:29,2026-06-23 19:55:58
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,72300,317200,false,false,2026-06-23 19:55:59,2026-08-02 23:42:48
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,72300,703200,false,false,2026-08-02 23:42:49,2026-08-07 14:19:57
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,72300,784600,false,false,2026-08-07 14:19:58,2026-08-10 09:14:40
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-018,Account Manager,Basic,200400,784600,false,false,2026-08-10 09:14:41,2026-09-09 03:23:07
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-004,Account Executive,Basic,200400,784600,false,false,2026-09-09 03:23:08,2026-09-26 16:39:50
+ACC-00041,Willowbrook Public Schools,Virginia,Large District,USR-004,Account Executive,Basic,200400,467400,false,true,2026-09-26 16:39:51,9999-12-31 23:59:59
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-015,Account Executive,Basic,384000,,false,false,2025-07-01 00:00:00,2025-12-04 23:15:05
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,,false,false,2025-12-04 23:15:06,2026-01-04 04:15:14
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,145700,false,false,2026-01-04 04:15:15,2026-02-26 21:34:19
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,249900,false,false,2026-02-26 21:34:20,2026-03-30 21:34:19
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,145700,false,false,2026-03-30 21:34:20,2026-04-04 07:31:27
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,346400,false,false,2026-04-04 07:31:28,2026-05-02 04:15:14
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,200700,false,false,2026-05-02 04:15:15,2026-05-25 13:12:09
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,413200,false,false,2026-05-25 13:12:10,2026-06-29 07:31:27
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,212500,false,false,2026-06-29 07:31:28,2026-07-31 13:12:09
+ACC-00042,Copperfield Regional ESA,California,Education Service Agency,USR-014,Account Executive,Basic,384000,,false,true,2026-07-31 13:12:10,9999-12-31 23:59:59
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Plus,787000,,false,false,2025-07-01 00:00:00,2025-10-19 02:51:54
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Plus,787000,328900,false,false,2025-10-19 02:51:55,2025-11-13 01:08:04
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Plus,787000,506100,false,false,2025-11-13 01:08:05,2025-12-13 22:36:22
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Plus,787000,858300,false,false,2025-12-13 22:36:23,2025-12-16 02:51:54
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Premium,417400,529400,false,false,2025-12-16 02:51:55,2026-01-06 12:03:16
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Premium,417400,177200,false,false,2026-01-06 12:03:17,2026-01-12 02:56:44
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Premium,188100,,false,false,2026-01-12 02:56:45,2026-01-22 19:23:05
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Premium,188100,337900,false,false,2026-01-22 19:23:06,2026-03-14 13:11:53
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-005,Account Executive,Premium,188100,562600,false,false,2026-03-14 13:11:54,2026-04-08 10:59:59
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,188100,562600,false,false,2026-04-08 11:00:00,2026-04-21 08:20:25
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,162800,562600,false,false,2026-04-21 08:20:26,2026-04-26 19:23:05
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,446300,224700,false,false,2026-04-26 19:23:06,2026-04-30 12:05:45
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,446300,481400,false,false,2026-04-30 12:05:46,2026-04-30 16:58:32
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,94300,481400,false,false,2026-04-30 16:58:33,2026-06-02 13:11:53
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,231100,256700,false,false,2026-06-02 13:11:54,2026-06-10 15:07:35
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,231100,332100,false,false,2026-06-10 15:07:36,2026-06-27 12:05:45
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,270900,75400,false,false,2026-06-27 12:05:46,2026-07-14 16:57:59
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,270900,277400,false,false,2026-07-14 16:58:00,2026-07-27 10:25:55
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-003,Account Executive,Premium,270900,420600,false,false,2026-07-27 10:25:56,2026-08-14 15:56:19
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-012,Account Manager,Premium,270900,420600,false,false,2026-08-14 15:56:20,2026-08-17 13:36:58
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-012,Account Manager,Premium,270900,345200,false,false,2026-08-17 13:36:59,2026-08-27 03:02:05
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-012,Account Manager,Premium,270900,143200,false,false,2026-08-27 03:02:06,2026-09-21 10:25:55
+ACC-00043,Granite Peak City Schools,Colorado,Mid-Size District,USR-012,Account Manager,Premium,188900,,false,true,2026-09-21 10:25:56,9999-12-31 23:59:59
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-011,Account Manager,Basic,149000,,false,false,2025-07-01 00:00:00,2026-02-13 19:59:59
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-004,Account Executive,Basic,149000,,false,false,2026-02-13 20:00:00,2026-04-17 22:59:29
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-002,Account Executive,Basic,149000,,false,false,2026-04-17 22:59:30,2026-06-06 03:53:17
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-004,Account Executive,Basic,149000,,false,false,2026-06-06 03:53:18,2026-08-29 00:00:00
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-010,Account Manager,Basic,149000,,false,false,2026-08-29 00:00:01,2026-10-09 05:16:09
+ACC-00044,Ashford School District,Pennsylvania,Mid-Size District,USR-013,Customer Success Manager,Basic,149000,,false,true,2026-10-09 05:16:10,9999-12-31 23:59:59
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-021,Account Executive,Plus,394000,,false,false,2025-07-01 00:00:00,2026-02-24 16:59:29
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-021,Account Executive,Plus,394000,81000,false,false,2026-02-24 16:59:30,2026-04-23 16:59:29
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-021,Account Executive,Plus,394000,,false,false,2026-04-23 16:59:30,2026-05-20 23:09:13
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-021,Account Executive,Plus,394000,155700,false,false,2026-05-20 23:09:14,2026-05-21 20:49:46
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-021,Account Executive,Plus,36800,155700,false,false,2026-05-21 20:49:47,2026-06-19 16:59:59
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-013,Customer Success Manager,Plus,36800,155700,false,false,2026-06-19 17:00:00,2026-07-25 14:46:02
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-006,Customer Success Manager,Plus,36800,155700,false,false,2026-07-25 14:46:03,2026-08-29 10:15:43
+ACC-00045,Copperfield Area Schools,North Carolina,Mid-Size District,USR-006,Customer Success Manager,Plus,118900,,false,true,2026-08-29 10:15:44,9999-12-31 23:59:59
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-002,Account Executive,Plus,399000,,false,false,2025-07-01 00:00:00,2026-01-15 00:38:50
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-002,Account Executive,Plus,399000,348400,false,false,2026-01-15 00:38:51,2026-02-08 06:18:16
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-002,Account Executive,Plus,123200,348400,false,false,2026-02-08 06:18:17,2026-03-19 08:46:33
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-002,Account Executive,Premium,130500,348400,false,false,2026-03-19 08:46:34,2026-04-06 20:54:02
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-002,Account Executive,Premium,130500,482700,false,false,2026-04-06 20:54:03,2026-04-08 12:59:59
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-022,Account Executive,Premium,130500,482700,false,false,2026-04-08 13:00:00,2026-04-17 19:37:46
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-022,Account Executive,Premium,130500,861800,false,false,2026-04-17 19:37:47,2026-04-28 12:24:31
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-022,Account Executive,Premium,130500,964800,false,false,2026-04-28 12:24:32,2026-05-01 07:44:46
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-022,Account Executive,Premium,34500,964800,false,false,2026-05-01 07:44:47,2026-05-02 00:38:50
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-022,Account Executive,Premium,493300,616400,false,false,2026-05-02 00:38:51,2026-05-20 10:14:26
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-017,Account Manager,Premium,493300,616400,false,false,2026-05-20 10:14:27,2026-06-02 03:32:38
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,493300,616400,false,false,2026-06-02 03:32:39,2026-06-06 12:24:31
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,493300,513400,false,false,2026-06-06 12:24:32,2026-06-29 15:19:33
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,86800,513400,false,false,2026-06-29 15:19:34,2026-06-30 19:37:46
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,219800,134300,false,false,2026-06-30 19:37:47,2026-06-30 20:54:02
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,181600,,false,false,2026-06-30 20:54:03,2026-07-03 07:25:11
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,181600,266400,false,false,2026-07-03 07:25:12,2026-07-30 14:32:13
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,181600,546900,false,false,2026-07-30 14:32:14,2026-08-01 09:11:54
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,27700,546900,false,false,2026-08-01 09:11:55,2026-08-01 15:30:39
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,161100,546900,false,false,2026-08-01 15:30:40,2026-08-24 08:25:43
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,77400,546900,false,false,2026-08-24 08:25:44,2026-08-27 05:32:14
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,77400,718300,false,false,2026-08-27 05:32:15,2026-09-29 11:31:48
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,127300,718300,false,false,2026-09-29 11:31:49,2026-10-18 05:32:14
+ACC-00046,Clearwater Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Premium,193200,546900,false,true,2026-10-18 05:32:15,9999-12-31 23:59:59
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,286000,,false,false,2025-07-01 00:00:00,2025-12-25 00:43:28
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-003,Account Executive,Basic,286000,,false,false,2025-12-25 00:43:29,2025-12-28 23:31:44
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-021,Account Executive,Basic,286000,,false,false,2025-12-28 23:31:45,2026-03-24 12:53:33
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-021,Account Executive,Basic,286000,127000,false,false,2026-03-24 12:53:34,2026-06-20 19:59:59
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,286000,127000,false,false,2026-06-20 20:00:00,2026-07-07 12:03:33
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,286000,174900,false,false,2026-07-07 12:03:34,2026-07-13 15:19:47
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,286000,246500,false,false,2026-07-13 15:19:48,2026-07-20 12:53:33
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,286000,119500,false,false,2026-07-20 12:53:34,2026-09-04 08:21:05
+ACC-00047,Meridian Regional ESA,Colorado,Education Service Agency,USR-022,Account Executive,Basic,70500,119500,false,true,2026-09-04 08:21:06,9999-12-31 23:59:59
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-005,Account Executive,Plus,591000,,false,false,2025-07-01 00:00:00,2026-02-28 06:28:49
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,591000,,false,false,2026-02-28 06:28:50,2026-05-02 10:22:23
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,591000,308900,false,false,2026-05-02 10:22:24,2026-05-05 09:00:35
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,591000,642700,false,false,2026-05-05 09:00:36,2026-05-23 12:50:34
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,591000,772000,false,false,2026-05-23 12:50:35,2026-06-25 10:22:23
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,185300,463100,false,false,2026-06-25 10:22:24,2026-06-28 06:58:07
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,185300,671500,false,false,2026-06-28 06:58:08,2026-07-31 09:44:01
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,185300,798100,false,false,2026-07-31 09:44:02,2026-08-04 06:31:36
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-017,Account Manager,Plus,76900,798100,false,false,2026-08-04 06:31:37,2026-08-08 04:27:25
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-010,Account Manager,Plus,76900,798100,false,false,2026-08-08 04:27:26,2026-08-14 09:00:35
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-010,Account Manager,Plus,264400,464300,false,false,2026-08-14 09:00:36,2026-08-27 12:59:01
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-010,Account Manager,Plus,125300,464300,false,false,2026-08-27 12:59:02,2026-08-28 12:50:34
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-010,Account Manager,Plus,125300,335000,false,false,2026-08-28 12:50:35,2026-09-14 09:44:01
+ACC-00048,Brookstone Consolidated Schools,Washington,Small/Rural District,USR-010,Account Manager,Plus,127900,208400,false,true,2026-09-14 09:44:02,9999-12-31 23:59:59
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-015,Account Executive,Basic,56000,,false,false,2025-07-01 00:00:00,2025-12-15 16:52:43
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-003,Account Executive,Basic,56000,,false,false,2025-12-15 16:52:44,2026-02-22 17:03:54
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-003,Account Executive,Basic,56000,39000,false,false,2026-02-22 17:03:55,2026-06-05 17:03:54
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-003,Account Executive,Basic,56000,,false,false,2026-06-05 17:03:55,2026-08-28 22:22:27
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-003,Account Executive,Basic,56000,49900,false,false,2026-08-28 22:22:28,2026-10-09 22:22:27
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-003,Account Executive,Basic,31400,,false,false,2026-10-09 22:22:28,2026-10-13 13:19:39
+ACC-00049,Riverside Consolidated Schools,Illinois,Small/Rural District,USR-019,Account Executive,Basic,31400,,false,true,2026-10-13 13:19:40,9999-12-31 23:59:59
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,525000,,false,false,2025-07-01 00:00:00,2025-09-27 08:35:38
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,525000,250900,false,false,2025-09-27 08:35:39,2025-12-17 08:35:38
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,159100,,false,false,2025-12-17 08:35:39,2026-01-12 22:50:41
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,159100,196300,false,false,2026-01-12 22:50:42,2026-02-08 03:50:21
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,150000,196300,false,false,2026-02-08 03:50:22,2026-02-24 01:36:06
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,65700,196300,false,false,2026-02-24 01:36:07,2026-02-25 06:10:06
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-016,Account Manager,Plus,65700,196300,false,false,2026-02-25 06:10:07,2026-04-08 09:59:59
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,65700,196300,false,false,2026-04-08 10:00:00,2026-07-03 19:36:37
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-019,Account Executive,Plus,65700,394800,false,false,2026-07-03 19:36:38,2026-07-10 13:41:29
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-012,Account Manager,Plus,65700,394800,false,false,2026-07-10 13:41:30,2026-07-17 22:50:41
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-012,Account Manager,Plus,65700,198500,false,false,2026-07-17 22:50:42,2026-09-02 19:36:37
+ACC-00050,Clearwater Consolidated Schools,Tennessee,Small/Rural District,USR-012,Account Manager,Plus,209100,,false,true,2026-09-02 19:36:38,9999-12-31 23:59:59
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-004,Account Executive,Basic,251000,,false,false,2025-07-01 00:00:00,2026-03-31 12:52:56
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-004,Account Executive,Basic,251000,37200,false,false,2026-03-31 12:52:57,2026-04-26 23:03:06
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-004,Account Executive,Basic,251000,60900,false,false,2026-04-26 23:03:07,2026-05-20 19:29:00
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-022,Account Executive,Basic,251000,60900,false,false,2026-05-20 19:29:01,2026-05-26 03:18:27
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-022,Account Executive,Basic,251000,79600,false,false,2026-05-26 03:18:28,2026-06-07 05:08:43
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-012,Account Manager,Basic,251000,79600,false,false,2026-06-07 05:08:44,2026-07-21 03:34:08
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-012,Account Manager,Basic,22000,79600,false,false,2026-07-21 03:34:09,2026-08-26 18:04:19
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-012,Account Manager,Basic,22000,60900,false,false,2026-08-26 18:04:20,2026-08-30 00:25:47
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-012,Account Manager,Basic,35600,23700,false,false,2026-08-30 00:25:48,2026-09-08 12:42:39
+ACC-00051,Granite Peak School District,Florida,Mid-Size District,USR-012,Account Manager,Basic,28800,,false,true,2026-09-08 12:42:40,9999-12-31 23:59:59
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-010,Account Manager,Basic,117000,,false,false,2025-07-01 00:00:00,2025-11-18 04:06:22
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-010,Account Manager,Basic,117000,17700,false,false,2025-11-18 04:06:23,2026-01-03 04:06:22
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-010,Account Manager,Basic,12400,,false,false,2026-01-03 04:06:23,2026-03-08 06:12:23
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-010,Account Manager,Basic,12400,149000,false,false,2026-03-08 06:12:24,2026-04-06 14:59:59
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-019,Account Executive,Basic,12400,149000,false,false,2026-04-06 15:00:00,2026-05-07 06:12:23
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-019,Account Executive,Plus,173100,,false,false,2026-05-07 06:12:24,2026-06-18 10:21:12
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-012,Account Manager,Plus,173100,,false,false,2026-06-18 10:21:13,2026-07-10 09:55:14
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-012,Account Manager,Plus,173100,41600,false,false,2026-07-10 09:55:15,2026-10-05 09:55:14
+ACC-00052,Summit Ridge Rural Schools,Illinois,Small/Rural District,USR-012,Account Manager,Basic,32300,,false,true,2026-10-05 09:55:15,9999-12-31 23:59:59
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-010,Account Manager,Basic,66000,,false,false,2025-07-01 00:00:00,2026-02-01 02:32:24
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-022,Account Executive,Basic,66000,,false,false,2026-02-01 02:32:25,2026-05-15 15:44:18
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,66000,,false,false,2026-05-15 15:44:19,2026-05-18 23:47:35
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,49700,,false,false,2026-05-18 23:47:36,2026-06-20 17:32:04
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,49700,46200,false,false,2026-06-20 17:32:05,2026-06-26 06:39:48
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,49700,261000,false,false,2026-06-26 06:39:49,2026-07-29 17:32:04
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,75600,214800,false,false,2026-07-29 17:32:05,2026-08-31 08:25:13
+ACC-00053,Fairmont Public Schools,South Carolina,Large District,USR-008,Customer Success Manager,Basic,278700,,false,true,2026-08-31 08:25:14,9999-12-31 23:59:59
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-022,Account Executive,Plus,229000,,false,false,2025-07-01 00:00:00,2025-09-14 14:53:23
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-010,Account Manager,Plus,229000,,false,false,2025-09-14 14:53:24,2025-10-29 11:15:59
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-016,Account Manager,Plus,229000,,false,false,2025-10-29 11:16:00,2026-01-11 17:28:17
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-016,Account Manager,Plus,229000,92200,false,false,2026-01-11 17:28:18,2026-02-16 17:28:17
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-016,Account Manager,Plus,95300,,false,false,2026-02-16 17:28:18,2026-03-17 10:38:06
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-016,Account Manager,Premium,110600,,false,false,2026-03-17 10:38:07,2026-04-08 06:59:59
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,110600,,false,false,2026-04-08 07:00:00,2026-05-16 01:16:58
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,110600,173500,false,false,2026-05-16 01:16:59,2026-05-28 14:58:45
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,110600,308600,false,false,2026-05-28 14:58:46,2026-06-04 23:33:52
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,261500,135100,false,false,2026-06-04 23:33:53,2026-06-10 15:14:29
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,261500,176100,false,false,2026-06-10 15:14:30,2026-06-20 10:37:15
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,112700,176100,false,false,2026-06-20 10:37:16,2026-07-13 14:58:45
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,146500,41000,false,false,2026-07-13 14:58:46,2026-08-29 21:44:51
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,127900,41000,false,false,2026-08-29 21:44:52,2026-09-04 11:20:22
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,145100,41000,false,false,2026-09-04 11:20:23,2026-09-04 13:13:23
+ACC-00054,Elmhurst Public Schools,Indiana,Large District,USR-005,Account Executive,Premium,52000,,false,true,2026-09-04 13:13:24,9999-12-31 23:59:59
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-003,Account Executive,Basic,32000,,false,false,2025-07-01 00:00:00,2026-04-09 05:59:59
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-015,Account Executive,Basic,32000,,false,false,2026-04-09 06:00:00,2026-04-25 18:29:08
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-008,Customer Success Manager,Basic,32000,,false,false,2026-04-25 18:29:09,2026-05-03 19:54:11
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-008,Customer Success Manager,Basic,32000,26500,false,false,2026-05-03 19:54:12,2026-07-03 17:32:19
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-009,Account Executive,Basic,32000,26500,false,false,2026-07-03 17:32:20,2026-07-12 19:54:11
+ACC-00055,Willowbrook Rural Schools,Colorado,Small/Rural District,USR-009,Account Executive,Basic,32000,,false,true,2026-07-12 19:54:12,9999-12-31 23:59:59
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-017,Account Manager,Basic,328000,,false,false,2025-07-01 00:00:00,2025-11-23 09:16:55
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-017,Account Manager,Basic,328000,225800,false,false,2025-11-23 09:16:56,2025-11-28 01:41:53
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-017,Account Manager,Basic,328000,281100,false,false,2025-11-28 01:41:54,2025-12-09 22:34:19
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-017,Account Manager,Basic,328000,448600,false,false,2025-12-09 22:34:20,2025-12-20 19:19:48
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-010,Account Manager,Basic,328000,448600,false,false,2025-12-20 19:19:49,2026-03-02 14:16:09
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-013,Customer Success Manager,Basic,328000,448600,false,false,2026-03-02 14:16:10,2026-03-05 09:16:55
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-013,Customer Success Manager,Basic,328000,222800,false,false,2026-03-05 09:16:56,2026-03-08 22:34:19
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-013,Customer Success Manager,Basic,328000,55300,false,false,2026-03-08 22:34:20,2026-03-14 16:16:39
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,328000,55300,false,false,2026-03-14 16:16:40,2026-03-20 01:41:53
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,328000,,false,false,2026-03-20 01:41:54,2026-04-25 03:10:51
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,74900,,false,false,2026-04-25 03:10:52,2026-05-18 12:59:55
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,74900,18800,false,false,2026-05-18 12:59:56,2026-06-04 21:22:07
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,74900,108300,false,false,2026-06-04 21:22:08,2026-07-13 12:59:55
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,12400,89500,false,false,2026-07-13 12:59:56,2026-07-18 21:22:07
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-004,Account Executive,Basic,68100,,false,false,2026-07-18 21:22:08,2026-08-24 06:17:39
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-019,Account Executive,Basic,68100,,false,false,2026-08-24 06:17:40,2026-10-13 04:07:57
+ACC-00056,Westfield Rural Schools,Wisconsin,Small/Rural District,USR-019,Account Executive,Basic,48300,,false,true,2026-10-13 04:07:58,9999-12-31 23:59:59
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Plus,608000,,false,false,2025-07-01 00:00:00,2025-10-20 09:46:05
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Plus,608000,195300,false,false,2025-10-20 09:46:06,2025-12-16 09:46:05
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Plus,219500,,false,false,2025-12-16 09:46:06,2026-03-29 10:38:55
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Plus,219500,233700,false,false,2026-03-29 10:38:56,2026-04-02 14:45:14
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-005,Account Executive,Plus,170000,233700,false,false,2026-04-02 14:45:15,2026-04-09 04:59:59
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Plus,170000,233700,false,false,2026-04-09 05:00:00,2026-04-16 04:18:26
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Plus,105300,233700,false,false,2026-04-16 04:18:27,2026-05-07 09:56:52
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Plus,87700,233700,false,false,2026-05-07 09:56:53,2026-05-11 10:38:55
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Premium,289200,,false,false,2026-05-11 10:38:56,2026-05-16 03:33:11
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Premium,289200,365100,false,false,2026-05-16 03:33:12,2026-05-25 23:57:54
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-004,Account Executive,Premium,194100,365100,false,false,2026-05-25 23:57:55,2026-05-26 02:32:27
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-003,Account Executive,Premium,194100,365100,false,false,2026-05-26 02:32:28,2026-06-03 12:15:45
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-003,Account Executive,Premium,194100,818800,false,false,2026-06-03 12:15:46,2026-06-11 12:49:37
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-003,Account Executive,Premium,101200,818800,false,false,2026-06-11 12:49:38,2026-06-15 03:33:11
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-003,Account Executive,Premium,101200,453700,false,false,2026-06-15 03:33:12,2026-06-19 16:17:12
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-016,Account Manager,Premium,101200,453700,false,false,2026-06-19 16:17:13,2026-06-28 08:42:45
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-016,Account Manager,Premium,101200,582000,false,false,2026-06-28 08:42:46,2026-07-02 20:52:17
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-016,Account Manager,Premium,101200,930500,false,false,2026-07-02 20:52:18,2026-08-17 18:59:59
+ACC-00057,Copperfield Community Schools,Arizona,Small/Rural District,USR-010,Account Manager,Premium,101200,930500,false,true,2026-08-17 19:00:00,9999-12-31 23:59:59
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-019,Account Executive,Basic,132000,,false,false,2025-07-01 00:00:00,2025-11-07 03:43:02
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-016,Account Manager,Basic,132000,,false,false,2025-11-07 03:43:03,2025-11-13 04:49:31
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-016,Account Manager,Basic,132000,180900,false,false,2025-11-13 04:49:32,2026-01-21 04:49:31
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-016,Account Manager,Basic,192800,,false,false,2026-01-21 04:49:32,2026-02-12 14:45:21
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-001,Account Executive,Basic,192800,,false,false,2026-02-12 14:45:22,2026-04-07 12:59:59
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-004,Account Executive,Basic,192800,,false,false,2026-04-07 13:00:00,2026-05-10 08:18:08
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-004,Account Executive,Basic,192800,141800,false,false,2026-05-10 08:18:09,2026-05-24 22:35:17
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-004,Account Executive,Basic,30900,141800,false,false,2026-05-24 22:35:18,2026-05-30 12:46:13
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-021,Account Executive,Basic,30900,141800,false,false,2026-05-30 12:46:14,2026-06-22 21:59:59
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-012,Account Manager,Basic,30900,141800,false,false,2026-06-22 22:00:00,2026-08-23 08:18:08
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-012,Account Manager,Basic,30900,,false,false,2026-08-23 08:18:09,2026-09-05 17:57:07
+ACC-00058,Maple Crest Area Schools,Indiana,Mid-Size District,USR-012,Account Manager,Basic,30900,209400,false,true,2026-09-05 17:57:08,9999-12-31 23:59:59
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-021,Account Executive,Basic,352000,,false,false,2025-07-01 00:00:00,2025-09-19 05:19:31
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-002,Account Executive,Basic,352000,,false,false,2025-09-19 05:19:32,2025-10-04 15:24:33
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-002,Account Executive,Basic,352000,42500,false,false,2025-10-04 15:24:34,2025-10-20 05:30:26
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-002,Account Executive,Basic,352000,78400,false,false,2025-10-20 05:30:27,2025-11-13 14:59:48
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-011,Account Manager,Basic,352000,78400,false,false,2025-11-13 14:59:49,2025-11-17 15:24:33
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-011,Account Manager,Basic,352000,35900,false,false,2025-11-17 15:24:34,2025-12-01 13:37:55
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-017,Account Manager,Basic,352000,35900,false,false,2025-12-01 13:37:56,2026-02-09 05:30:26
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-017,Account Manager,Basic,352000,,false,false,2026-02-09 05:30:27,2026-04-07 14:59:59
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-021,Account Executive,Basic,352000,,false,false,2026-04-07 15:00:00,2026-06-20 19:59:59
+ACC-00059,Oakhaven Preparatory Schools,Michigan,Charter Network,USR-017,Account Manager,Basic,352000,,false,true,2026-06-20 20:00:00,9999-12-31 23:59:59
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-012,Account Manager,Basic,218000,,false,false,2025-07-01 00:00:00,2025-10-30 21:53:48
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-017,Account Manager,Basic,218000,,false,false,2025-10-30 21:53:49,2025-12-13 00:30:55
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-021,Account Executive,Basic,218000,,false,false,2025-12-13 00:30:56,2026-04-08 07:59:59
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Basic,218000,,false,false,2026-04-08 08:00:00,2026-05-29 16:37:35
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Plus,38300,,false,false,2026-05-29 16:37:36,2026-06-22 18:37:43
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Plus,38300,98400,false,false,2026-06-22 18:37:44,2026-06-26 21:50:34
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Plus,38300,157200,false,false,2026-06-26 21:50:35,2026-07-03 06:00:28
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-016,Account Manager,Plus,38300,157200,false,false,2026-07-03 06:00:29,2026-07-06 13:05:19
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-010,Account Manager,Plus,38300,157200,false,false,2026-07-06 13:05:20,2026-07-20 19:10:43
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-010,Account Manager,Plus,38300,276800,false,false,2026-07-20 19:10:44,2026-08-26 02:17:23
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-010,Account Manager,Premium,170500,157200,false,false,2026-08-26 02:17:24,2026-08-27 08:47:14
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-010,Account Manager,Premium,107200,58800,false,false,2026-08-27 08:47:15,2026-10-12 21:50:34
+ACC-00060,Ironwood Public Schools,Arizona,Large District,USR-010,Account Manager,Premium,72900,,false,true,2026-10-12 21:50:35,9999-12-31 23:59:59
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-015,Account Executive,Plus,488000,,false,false,2025-07-01 00:00:00,2025-10-31 04:06:14
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-012,Account Manager,Plus,488000,,false,false,2025-10-31 04:06:15,2025-12-12 09:25:57
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-012,Account Manager,Plus,488000,81300,false,false,2025-12-12 09:25:58,2026-02-12 09:25:57
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-012,Account Manager,Plus,488000,,false,false,2026-02-12 09:25:58,2026-02-14 09:27:29
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-020,Account Executive,Plus,488000,,false,false,2026-02-14 09:27:30,2026-03-01 05:19:44
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-020,Account Executive,Plus,488000,205700,false,false,2026-03-01 05:19:45,2026-04-03 13:55:51
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-020,Account Executive,Plus,488000,469000,false,false,2026-04-03 13:55:52,2026-04-04 15:24:12
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-020,Account Executive,Plus,488000,620000,false,false,2026-04-04 15:24:13,2026-04-07 19:59:59
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Plus,488000,620000,false,false,2026-04-07 20:00:00,2026-05-18 13:55:51
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-008,Customer Success Manager,Plus,488000,356700,false,false,2026-05-18 13:55:52,2026-05-23 16:57:27
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,488000,356700,false,false,2026-05-23 16:57:28,2026-06-18 17:21:24
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,55900,356700,false,false,2026-06-18 17:21:25,2026-06-20 04:19:55
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,55900,205700,false,false,2026-06-20 04:19:56,2026-06-21 20:26:42
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,55900,,false,false,2026-06-21 20:26:43,2026-07-20 15:29:47
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,55900,29100,false,false,2026-07-20 15:29:48,2026-08-05 01:28:54
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Plus,55900,126100,false,false,2026-08-05 01:28:55,2026-08-27 17:44:23
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Premium,28800,97000,false,false,2026-08-27 17:44:24,2026-08-27 21:11:29
+ACC-00061,Stonebridge Public Schools,Arizona,Large District,USR-014,Account Executive,Premium,88000,,false,true,2026-08-27 21:11:30,9999-12-31 23:59:59
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-004,Account Executive,Basic,168000,,false,false,2025-07-01 00:00:00,2025-08-31 14:07:53
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-002,Account Executive,Basic,168000,,false,false,2025-08-31 14:07:54,2025-10-25 04:54:58
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-012,Account Manager,Basic,168000,,false,false,2025-10-25 04:54:59,2026-01-26 17:56:19
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-008,Customer Success Manager,Basic,168000,,false,false,2026-01-26 17:56:20,2026-03-15 07:29:22
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-008,Customer Success Manager,Basic,168000,60700,false,false,2026-03-15 07:29:23,2026-05-15 02:29:19
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-008,Customer Success Manager,Basic,168000,160200,false,false,2026-05-15 02:29:20,2026-06-11 02:22:54
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-008,Customer Success Manager,Basic,48900,99500,false,false,2026-06-11 02:22:55,2026-06-17 09:11:23
+ACC-00062,Elmhurst Unified School District,Oklahoma,Large District,USR-008,Customer Success Manager,Basic,109900,,false,true,2026-06-17 09:11:24,9999-12-31 23:59:59
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-019,Account Executive,Basic,433000,,false,false,2025-07-01 00:00:00,2025-10-07 06:59:08
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-020,Account Executive,Basic,433000,,false,false,2025-10-07 06:59:09,2025-11-16 07:53:01
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-020,Account Executive,Basic,433000,116300,false,false,2025-11-16 07:53:02,2025-12-27 21:39:56
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-020,Account Executive,Basic,433000,299100,false,false,2025-12-27 21:39:57,2026-01-05 06:11:41
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-020,Account Executive,Basic,433000,338500,false,false,2026-01-05 06:11:42,2026-01-22 21:41:34
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-007,Account Executive,Basic,433000,338500,false,false,2026-01-22 21:41:35,2026-02-18 07:53:01
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-007,Account Executive,Basic,433000,222200,false,false,2026-02-18 07:53:02,2026-03-31 22:34:25
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-007,Account Executive,Basic,26300,222200,false,false,2026-03-31 22:34:26,2026-04-04 18:59:59
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-005,Account Executive,Basic,26300,222200,false,false,2026-04-04 19:00:00,2026-04-06 21:39:56
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-005,Account Executive,Basic,26300,39400,false,false,2026-04-06 21:39:57,2026-04-18 06:11:41
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-005,Account Executive,Basic,35600,,false,false,2026-04-18 06:11:42,2026-06-07 12:11:49
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-005,Account Executive,Basic,35600,142200,false,false,2026-06-07 12:11:50,2026-09-09 12:11:49
+ACC-00063,Stonebridge Preparatory Schools,Wisconsin,Charter Network,USR-005,Account Executive,Basic,35600,,false,true,2026-09-09 12:11:50,9999-12-31 23:59:59
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,375000,,false,false,2025-07-01 00:00:00,2025-10-13 02:20:45
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,375000,1200000,false,false,2025-10-13 02:20:46,2025-11-23 19:08:50
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,375000,2393400,false,false,2025-11-23 19:08:51,2025-12-05 02:20:45
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,1358600,1193400,false,false,2025-12-05 02:20:46,2025-12-12 00:18:13
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,1358600,2006000,false,false,2025-12-12 00:18:14,2025-12-20 13:48:42
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,1358600,3183000,false,false,2025-12-20 13:48:43,2025-12-23 02:18:58
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,821000,3183000,false,false,2025-12-23 02:18:59,2025-12-26 07:33:22
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,105500,3183000,false,false,2025-12-26 07:33:23,2025-12-27 10:21:53
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,105500,3492700,false,false,2025-12-27 10:21:54,2026-01-07 05:28:14
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,1904300,2299300,false,false,2026-01-07 05:28:15,2026-01-23 17:59:29
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,2123200,1122300,false,false,2026-01-23 17:59:30,2026-02-04 07:10:38
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,2123200,1472800,false,false,2026-02-04 07:10:39,2026-02-12 14:32:20
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,2123200,1774200,false,false,2026-02-12 14:32:21,2026-03-03 03:13:43
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,2123200,2127300,false,false,2026-03-03 03:13:44,2026-03-06 00:18:13
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,893000,1314700,false,false,2026-03-06 00:18:14,2026-03-08 07:10:38
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,409600,964200,false,false,2026-03-08 07:10:39,2026-03-10 15:22:56
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,409600,1564000,false,false,2026-03-10 15:22:57,2026-03-15 13:24:12
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-020,Account Executive,Premium,409600,2354900,false,false,2026-03-15 13:24:13,2026-03-18 08:46:38
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,409600,2354900,false,false,2026-03-18 08:46:39,2026-03-18 10:39:18
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,409600,2732300,false,false,2026-03-18 10:39:19,2026-03-21 10:21:53
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,409600,2422600,false,false,2026-03-21 10:21:54,2026-04-11 05:22:57
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,409600,2694600,false,false,2026-04-11 05:22:58,2026-04-13 10:08:56
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,409600,3680000,false,false,2026-04-13 10:08:57,2026-04-15 15:12:47
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,715400,3680000,false,false,2026-04-15 15:12:48,2026-04-18 15:22:56
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,639700,3080200,false,false,2026-04-18 15:22:57,2026-04-26 08:27:29
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,639700,4280200,false,false,2026-04-26 08:27:30,2026-04-27 11:38:14
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,639700,5259600,false,false,2026-04-27 11:38:15,2026-05-03 00:35:06
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,671400,5259600,false,false,2026-05-03 00:35:07,2026-05-13 01:43:17
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,671400,5750900,false,false,2026-05-13 01:43:18,2026-05-14 04:06:02
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,805800,5750900,false,false,2026-05-14 04:06:03,2026-05-15 14:32:20
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,253900,5449500,false,false,2026-05-15 14:32:21,2026-05-20 01:10:04
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,253900,5825500,false,false,2026-05-20 01:10:05,2026-05-27 05:49:45
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,134400,5825500,false,false,2026-05-27 05:49:46,2026-05-29 10:39:18
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,578800,5448100,false,false,2026-05-29 10:39:19,2026-05-30 13:24:12
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,792700,4657200,false,false,2026-05-30 13:24:13,2026-05-30 18:50:38
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,792700,5382600,false,false,2026-05-30 18:50:39,2026-06-07 06:50:36
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,792700,6555300,false,false,2026-06-07 06:50:37,2026-06-10 03:13:43
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,440300,6202200,false,false,2026-06-10 03:13:44,2026-06-12 08:27:29
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1478500,5002200,false,false,2026-06-12 08:27:30,2026-06-20 14:17:14
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1478500,5358200,false,false,2026-06-20 14:17:15,2026-07-01 06:05:02
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1478500,6492200,false,false,2026-07-01 06:05:03,2026-07-02 06:58:12
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,656900,6492200,false,false,2026-07-02 06:58:13,2026-07-06 11:46:09
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,656900,7308500,false,false,2026-07-06 11:46:10,2026-07-14 00:36:15
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,656900,8302700,false,false,2026-07-14 00:36:16,2026-07-22 12:58:47
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,656900,9230900,false,false,2026-07-22 12:58:48,2026-07-28 06:50:36
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1378700,8058200,false,false,2026-07-28 06:50:37,2026-08-05 05:22:57
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,234200,7786200,false,false,2026-08-05 05:22:58,2026-08-10 21:10:22
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,234200,8616200,false,false,2026-08-10 21:10:23,2026-08-11 06:05:02
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1249600,7482200,false,false,2026-08-11 06:05:03,2026-08-16 01:43:17
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,787400,6990900,false,false,2026-08-16 01:43:18,2026-08-19 18:50:38
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1144900,6265500,false,false,2026-08-19 18:50:39,2026-08-22 11:35:19
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1129700,5286100,false,false,2026-08-22 11:35:20,2026-08-23 15:20:57
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,798600,5286100,false,false,2026-08-23 15:20:58,2026-08-27 18:07:56
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,91500,5286100,false,false,2026-08-27 18:07:57,2026-08-30 20:40:00
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,747700,4291900,false,false,2026-08-30 20:40:01,2026-09-04 07:08:44
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,519300,4291900,false,false,2026-09-04 07:08:45,2026-09-05 01:27:53
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,683400,3461900,false,false,2026-09-05 01:27:54,2026-09-05 04:39:10
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,471400,3085900,false,false,2026-09-05 04:39:11,2026-09-05 18:29:05
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1641500,2100500,false,false,2026-09-05 18:29:06,2026-09-07 11:34:15
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1641500,2729900,false,false,2026-09-07 11:34:16,2026-09-18 08:33:13
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,1641500,3159500,false,false,2026-09-18 08:33:14,2026-10-04 14:17:14
+ACC-00064,Silver Lake City Schools,Washington,Mid-Size District,USR-005,Account Executive,Premium,434600,2803500,false,true,2026-10-04 14:17:15,9999-12-31 23:59:59
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-018,Account Manager,Plus,1370000,,false,false,2025-07-01 00:00:00,2025-11-08 09:10:31
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-001,Account Executive,Plus,1370000,,false,false,2025-11-08 09:10:32,2025-12-18 04:09:30
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-001,Account Executive,Plus,462400,,false,false,2025-12-18 04:09:31,2025-12-21 11:04:01
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-001,Account Executive,Plus,462400,763500,false,false,2025-12-21 11:04:02,2025-12-28 12:51:42
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,462400,763500,false,false,2025-12-28 12:51:43,2026-01-12 15:25:50
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,462400,1259500,false,false,2026-01-12 15:25:51,2026-01-14 10:28:40
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,462400,2160100,false,false,2026-01-14 10:28:41,2026-01-23 07:42:30
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,462400,2425300,false,false,2026-01-23 07:42:31,2026-01-26 00:00:52
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,543900,2425300,false,false,2026-01-26 00:00:53,2026-02-08 14:30:33
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,543900,3156200,false,false,2026-02-08 14:30:34,2026-02-13 15:38:36
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,685200,3156200,false,false,2026-02-13 15:38:37,2026-02-18 19:05:01
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Premium,441000,3156200,false,false,2026-02-18 19:05:02,2026-02-21 11:04:01
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Premium,441000,2392700,false,false,2026-02-21 11:04:02,2026-03-09 09:09:13
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Premium,393800,2392700,false,false,2026-03-09 09:09:14,2026-03-12 15:25:50
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Premium,393800,1896700,false,false,2026-03-12 15:25:51,2026-03-14 07:56:13
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Premium,393800,2520700,false,false,2026-03-14 07:56:14,2026-03-15 07:42:30
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,161800,2255500,false,false,2026-03-15 07:42:31,2026-03-22 06:23:57
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,161800,3192200,false,false,2026-03-22 06:23:58,2026-03-24 17:06:41
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,161800,4040300,false,false,2026-03-24 17:06:42,2026-04-04 08:54:39
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-006,Customer Success Manager,Plus,161800,4402400,false,false,2026-04-04 08:54:40,2026-04-07 14:59:59
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,161800,4402400,false,false,2026-04-07 15:00:00,2026-04-18 11:13:49
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,161800,4860800,false,false,2026-04-18 11:13:50,2026-04-25 09:06:53
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,161800,5778900,false,false,2026-04-25 09:06:54,2026-04-30 14:30:33
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,858100,5048000,false,false,2026-04-30 14:30:34,2026-05-10 10:28:40
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,858100,4147400,false,false,2026-05-10 10:28:41,2026-05-16 20:08:32
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,858100,5160500,false,false,2026-05-16 20:08:33,2026-05-19 11:13:49
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,858100,4702100,false,false,2026-05-19 11:13:50,2026-06-10 01:27:35
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,4702100,false,false,2026-06-10 01:27:36,2026-06-19 07:56:13
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,4078100,false,false,2026-06-19 07:56:14,2026-06-23 02:12:26
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,4159600,false,false,2026-06-23 02:12:27,2026-07-04 08:54:39
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,3797500,false,false,2026-07-04 08:54:40,2026-07-12 12:55:15
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,4605300,false,false,2026-07-12 12:55:16,2026-07-13 17:06:41
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,503500,3757200,false,false,2026-07-13 17:06:42,2026-08-07 09:06:53
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,919700,2839100,false,false,2026-08-07 09:06:54,2026-08-12 09:46:26
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,919700,2940700,false,false,2026-08-12 09:46:27,2026-08-26 22:24:04
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,919700,4019900,false,false,2026-08-26 22:24:05,2026-09-05 06:23:57
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Plus,919700,3083200,false,false,2026-09-05 06:23:58,2026-09-08 02:12:26
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Premium,118700,3001700,false,false,2026-09-08 02:12:27,2026-10-08 23:41:38
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Premium,118700,3352600,false,false,2026-10-08 23:41:39,2026-10-11 12:55:15
+ACC-00065,Blue Ridge Education Co-op,California,Education Service Agency,USR-022,Account Executive,Premium,804700,2544800,false,true,2026-10-11 12:55:16,9999-12-31 23:59:59
+ACC-00066,Summit Ridge Community Schools,Colorado,Small/Rural District,USR-011,Account Manager,Basic,235000,,false,false,2025-07-01 00:00:00,2025-12-28 08:11:03
+ACC-00066,Summit Ridge Community Schools,Colorado,Small/Rural District,USR-009,Account Executive,Basic,235000,,false,false,2025-12-28 08:11:04,2026-04-08 13:59:59
+ACC-00066,Summit Ridge Community Schools,Colorado,Small/Rural District,USR-020,Account Executive,Basic,235000,,false,false,2026-04-08 14:00:00,2026-05-10 20:53:19
+ACC-00066,Summit Ridge Community Schools,Colorado,Small/Rural District,USR-020,Account Executive,Basic,235000,25400,false,false,2026-05-10 20:53:20,2026-08-31 20:53:19
+ACC-00066,Summit Ridge Community Schools,Colorado,Small/Rural District,USR-020,Account Executive,Basic,24800,,false,true,2026-08-31 20:53:20,9999-12-31 23:59:59
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,237000,,false,false,2025-07-01 00:00:00,2025-12-29 18:06:50
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,237000,273700,false,false,2025-12-29 18:06:51,2026-02-13 06:24:46
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,237000,391600,false,false,2026-02-13 06:24:47,2026-03-10 18:06:50
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,320000,117900,false,false,2026-03-10 18:06:51,2026-03-26 01:42:49
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,320000,274200,false,false,2026-03-26 01:42:50,2026-04-27 19:02:17
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,320000,459200,false,false,2026-04-27 19:02:18,2026-06-16 04:05:37
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,132100,341300,false,false,2026-06-16 04:05:38,2026-06-22 22:43:53
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-004,Account Executive,Premium,261100,185000,false,false,2026-06-22 22:43:54,2026-08-19 21:52:04
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-019,Account Executive,Premium,261100,185000,false,false,2026-08-19 21:52:05,2026-08-27 04:31:52
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-019,Account Executive,Premium,59000,185000,false,false,2026-08-27 04:31:53,2026-09-06 12:04:50
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-019,Account Executive,Premium,50100,185000,false,false,2026-09-06 12:04:51,2026-09-11 20:43:28
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-019,Account Executive,Premium,232500,,false,false,2026-09-11 20:43:29,2026-09-13 10:16:33
+ACC-00067,Silver Lake Public Schools,North Carolina,Large District,USR-019,Account Executive,Premium,166000,,false,true,2026-09-13 10:16:34,9999-12-31 23:59:59
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-017,Account Manager,Plus,151000,,false,false,2025-07-01 00:00:00,2025-11-07 16:54:49
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-021,Account Executive,Plus,151000,,false,false,2025-11-07 16:54:50,2025-12-24 02:59:11
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-021,Account Executive,Plus,151000,259000,false,false,2025-12-24 02:59:12,2026-01-19 21:31:40
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-021,Account Executive,Plus,151000,733300,false,false,2026-01-19 21:31:41,2026-01-28 12:48:59
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-021,Account Executive,Plus,151000,939000,false,false,2026-01-28 12:49:00,2026-02-03 01:59:11
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Plus,151000,939000,false,false,2026-02-03 01:59:12,2026-02-15 02:59:11
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,422600,680000,false,false,2026-02-15 02:59:12,2026-03-09 14:11:36
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,422600,1034700,false,false,2026-03-09 14:11:37,2026-03-29 21:31:40
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,655200,560400,false,false,2026-03-29 21:31:41,2026-04-04 04:21:29
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,655200,728600,false,false,2026-04-04 04:21:30,2026-04-18 21:25:44
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,655200,1245900,false,false,2026-04-18 21:25:45,2026-05-04 00:45:50
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,325000,1245900,false,false,2026-05-04 00:45:51,2026-05-23 12:48:59
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,316100,1040200,false,false,2026-05-23 12:49:00,2026-06-05 21:25:44
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,551800,522900,false,false,2026-06-05 21:25:45,2026-06-19 11:10:09
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,262700,522900,false,false,2026-06-19 11:10:10,2026-06-22 14:11:36
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,262700,168200,false,false,2026-06-22 14:11:37,2026-07-13 13:21:30
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,262700,511200,false,false,2026-07-13 13:21:31,2026-07-30 22:40:09
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-002,Account Executive,Premium,162100,511200,false,false,2026-07-30 22:40:10,2026-08-01 01:59:29
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-020,Account Executive,Premium,162100,511200,false,false,2026-08-01 01:59:30,2026-08-01 04:21:29
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-020,Account Executive,Premium,167800,343000,false,false,2026-08-01 04:21:30,2026-08-16 12:43:46
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-020,Account Executive,Premium,241500,343000,false,false,2026-08-16 12:43:47,2026-08-21 13:21:30
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-020,Account Executive,Premium,241500,,false,false,2026-08-21 13:21:31,2026-09-10 08:14:01
+ACC-00068,Ironwood Academies,Pennsylvania,Charter Network,USR-012,Account Manager,Premium,241500,,false,true,2026-09-10 08:14:02,9999-12-31 23:59:59
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,,false,false,2025-07-01 00:00:00,2026-01-10 12:54:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,403600,false,false,2026-01-10 12:54:19,2026-01-19 22:09:07
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,694200,false,false,2026-01-19 22:09:08,2026-01-22 07:54:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,1414800,false,false,2026-01-22 07:54:19,2026-01-29 16:59:57
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,1878500,false,false,2026-01-29 16:59:58,2026-02-22 16:32:22
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,2456200,false,false,2026-02-22 16:32:23,2026-03-03 05:18:37
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,3043200,false,false,2026-03-03 05:18:38,2026-03-11 13:42:24
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,3182000,false,false,2026-03-11 13:42:25,2026-03-13 12:54:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Plus,668000,2778400,false,false,2026-03-13 12:54:19,2026-03-17 16:59:57
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,748200,2314700,false,false,2026-03-17 16:59:58,2026-03-21 22:09:07
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,430500,2024100,false,false,2026-03-21 22:09:08,2026-03-23 07:54:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,899600,1303500,false,false,2026-03-23 07:54:19,2026-04-02 18:28:54
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,899600,1789500,false,false,2026-04-02 18:28:55,2026-04-07 10:37:37
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,899600,1856100,false,false,2026-04-07 10:37:38,2026-04-15 05:18:37
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,528500,1269100,false,false,2026-04-15 05:18:38,2026-04-21 21:11:29
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,528500,1797300,false,false,2026-04-21 21:11:30,2026-05-04 18:28:54
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,469300,1311300,false,false,2026-05-04 18:28:55,2026-05-09 22:27:53
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,352400,1311300,false,false,2026-05-09 22:27:54,2026-05-12 10:23:39
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,352400,1454800,false,false,2026-05-12 10:23:40,2026-05-23 17:22:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,352400,1978500,false,false,2026-05-23 17:22:19,2026-06-02 10:37:37
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,64600,1911900,false,false,2026-06-02 10:37:38,2026-06-03 16:32:22
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,563400,1334200,false,false,2026-06-03 16:32:23,2026-06-22 13:42:24
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,171000,1195400,false,false,2026-06-22 13:42:25,2026-07-17 10:23:39
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,149700,1051900,false,false,2026-07-17 10:23:40,2026-07-18 21:11:29
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,149700,523700,false,false,2026-07-18 21:11:30,2026-07-20 03:24:34
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,149700,970100,false,false,2026-07-20 03:24:35,2026-07-23 03:26:20
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,149700,1238500,false,false,2026-07-23 03:26:21,2026-07-30 17:22:18
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,469000,714800,false,false,2026-07-30 17:22:19,2026-08-18 12:56:43
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-001,Account Executive,Premium,469000,1203500,false,false,2026-08-18 12:56:44,2026-08-22 00:52:10
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-017,Account Manager,Premium,469000,1203500,false,false,2026-08-22 00:52:11,2026-09-30 12:56:43
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-017,Account Manager,Premium,690500,714800,false,false,2026-09-30 12:56:44,2026-10-19 03:26:20
+ACC-00069,Cedar Grove Academies,Michigan,Charter Network,USR-017,Account Manager,Premium,443700,446400,false,true,2026-10-19 03:26:21,9999-12-31 23:59:59
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-004,Account Executive,Plus,622000,,false,false,2025-07-01 00:00:00,2025-08-23 10:23:13
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-004,Account Executive,Plus,622000,57700,false,false,2025-08-23 10:23:14,2025-10-11 01:57:57
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-012,Account Manager,Plus,622000,57700,false,false,2025-10-11 01:57:58,2025-10-16 18:02:36
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,622000,57700,false,false,2025-10-16 18:02:37,2025-11-04 18:55:31
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,622000,240700,false,false,2025-11-04 18:55:32,2025-11-13 23:29:01
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,622000,592600,false,false,2025-11-13 23:29:02,2025-11-28 10:23:13
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,53500,534900,false,false,2025-11-28 10:23:14,2025-12-28 05:42:39
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,53500,761900,false,false,2025-12-28 05:42:40,2026-01-15 14:20:13
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,53500,876200,false,false,2026-01-15 14:20:14,2026-02-09 21:23:03
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,53500,1204500,false,false,2026-02-09 21:23:04,2026-02-21 23:29:01
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,461000,852600,false,false,2026-02-21 23:29:02,2026-03-07 05:42:39
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,234500,625600,false,false,2026-03-07 05:42:40,2026-04-01 21:23:03
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-021,Account Executive,Plus,303900,297300,false,false,2026-04-01 21:23:04,2026-04-07 19:59:59
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-022,Account Executive,Plus,303900,297300,false,false,2026-04-07 20:00:00,2026-04-16 14:20:13
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-022,Account Executive,Plus,103700,183000,false,false,2026-04-16 14:20:14,2026-05-19 18:55:31
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-022,Account Executive,Premium,235700,,false,false,2026-05-19 18:55:32,2026-05-24 17:06:35
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-022,Account Executive,Premium,235700,68700,false,false,2026-05-24 17:06:36,2026-07-06 02:07:21
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-022,Account Executive,Premium,235700,233400,false,false,2026-07-06 02:07:22,2026-07-25 12:36:03
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-005,Account Executive,Premium,235700,233400,false,false,2026-07-25 12:36:04,2026-08-28 17:06:35
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-005,Account Executive,Premium,235700,164700,false,false,2026-08-28 17:06:36,2026-09-19 02:07:21
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-005,Account Executive,Premium,149500,,false,false,2026-09-19 02:07:22,2026-09-22 12:53:56
+ACC-00070,Fairmont Rural Schools,California,Small/Rural District,USR-005,Account Executive,Premium,149500,138300,false,true,2026-09-22 12:53:57,9999-12-31 23:59:59
