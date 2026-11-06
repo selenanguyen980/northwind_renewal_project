@@ -26,7 +26,7 @@ Gold tables used: `current_accounts`, `current_opportunities`, `dim_accounts`, `
 
 ## Q1: Are Renewals at Risk When Account Owners Change?
 
-SQL: [q1_owner_change_win_rate.sql](q1_owner_change_win_rate.sql). A `LAG()` window function over each account's ownership history finds every handoff. Each closed renewal is then matched to the most recent handoff before its close date and bucketed by the gap in days.
+SQL: *[q1_owner_change_win_rate.sql](q1_owner_change_win_rate.sql)*. A `LAG()` window function over each account's ownership history finds every handoff. Each closed renewal is then matched to the most recent handoff before its close date and bucketed by the gap in days.
 
 ![Q1 dashboard: renewal rate by days since owner change](images/q1_dashboard.png)
 
@@ -43,7 +43,7 @@ SQL: [q1_owner_change_win_rate.sql](q1_owner_change_win_rate.sql). A `LAG()` win
 
 ## Q2: Does Low Product Utilization Impact Renewals?
 
-SQL: [q2_usage_win_rate.sql](q2_usage_win_rate.sql). Utilization is active users divided by licensed seats, averaged over the 3 months before the renewal close month. The close month itself is excluded so last-minute logins don't inflate the score.
+SQL: *[q2_usage_win_rate.sql](q2_usage_win_rate.sql)*. Utilization is active users divided by licensed seats, averaged over the 3 months before the renewal close month. The close month itself is excluded so last-minute logins don't inflate the score.
 
 ![Q2 dashboard: renewal rate by product utilization](images/q2_dashboard.png)
 
@@ -59,7 +59,7 @@ SQL: [q2_usage_win_rate.sql](q2_usage_win_rate.sql). Utilization is active users
 
 ## Q3: Which Accounts Are At Risk of Not Renewing?
 
-SQL: [q3_at_risk_renewals.sql](q3_at_risk_renewals.sql). Applies both signals (low product utilization scores and account owner changes) to every open renewal, then sorts accounts with both flags first and low product usage next, so the Senior Director of RevOps and the CS team get a priority queue.
+SQL: *[q3_at_risk_renewals.sql](q3_at_risk_renewals.sql)*. Applies both signals (low product utilization scores and account owner changes) to every open renewal, then sorts accounts with both flags first and low product usage next, so the Senior Director of RevOps and the CS team get a priority queue.
 
 ![Q3 dashboard: 31 at-risk renewals worth $8,250,700](images/q3_dashboard.png)
 
