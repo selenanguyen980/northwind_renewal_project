@@ -14,7 +14,7 @@ This project analyzes renewal risk for Northwind Science, a fictional company th
 - Renewal rate falls from 76.19% (owner change 21-30 days before close) to 40% (owner change 11-20 days before close).
 - Accounts with no owner change have the highest renewal rate at 85.11%.
 - Accounts with a product utilization score under 25% have the lowest renewal rate (53.85%). Accounts at 70% or higher have the highest (91.67%).
-- 31 open renewals worth $8,250,700 are at risk. 74.2% show low product usage, 32.3% had a recent owner change, and 2 renewals (both Cedar Grove Regional ESA) have both flags.
+- 31 open renewals worth $8.2M are at risk. 74.2% show low product usage, 32.3% had a recent owner change, and 2 renewals (both Cedar Grove Regional ESA) have both flags.
 
 ## Architecture
 
